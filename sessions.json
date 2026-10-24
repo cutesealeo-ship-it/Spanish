@@ -1,0 +1,2220 @@
+{
+  "2026-10-17T12:38:27.930935": {
+    "id": "2026-10-17T12:38:27.930935",
+    "timestamp": "2026-10-17T12:38:27.930935",
+    "input": "Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto\n\n## 1. Correcciones gramaticales\n\n\u2713 **El texto es gramaticalmente correcto.** No hay errores de estructura, conjugaci\u00f3n o sintaxis.\n\n---\n\n## 2. Sugerencias de vocabulario\n\n| Palabra actual | Alternativas | Contexto |\n|---|---|---|\n| **como** | consumo, ingiero | M\u00e1s formal o variado |\n| **bonito** | hermoso, precioso, encantador | M\u00e1s descriptivo o literario |\n| **hay** | existen, se encuentran | M\u00e1s formal |\n\n---\n\n## 3. Mejoras de estilo\n\n**Versi\u00f3n mejorada:**\n\n> *Cada d\u00eda ingiero una manzana en el parque, un lugar hermoso lleno de \u00e1rboles frondosos.*\n\n**Cambios realizados:**\n- Reorganizaci\u00f3n del orden de las palabras (m\u00e1s natural)\n- Eliminaci\u00f3n de la repetici\u00f3n \"el parque\" \u2192 usando pronombre relativo\n- Adjetivo m\u00e1s descriptivo: \"bonito\" \u2192 \"hermoso\"\n- Adjetivo m\u00e1s espec\u00edfico: \"muchos \u00e1rboles\" \u2192 \"\u00e1rboles frondosos\"\n- Uni\u00f3n de oraciones para mejor fluidez\n\n**Alternativa m\u00e1s literaria:**\n\n> *Todos los d\u00edas disfruto comiendo una manzana en el hermoso parque, rodeado de majestuosos \u00e1rboles.*\n\n---\n\n**Conclusi\u00f3n:** El texto original es correcto, pero puede enriquecerse con vocabulario m\u00e1s variado y una estructura m\u00e1s fluida. \u2713",
+      "reading_exercise": {
+        "text": "Cada d\u00eda ingiero una manzana en el hermoso parque, un lugar lleno de \u00e1rboles frondosos.",
+        "words": [
+          {
+            "word": "Cada",
+            "definition": "Every, each",
+            "tense": "Determiner",
+            "unconjugated": "cada"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day",
+            "tense": "Noun",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "ingiero",
+            "definition": "I eat, I consume, I ingest",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "ingerir"
+          },
+          {
+            "word": "una",
+            "definition": "A, one (feminine)",
+            "tense": "Article",
+            "unconjugated": "uno/una"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "en",
+            "definition": "In, at, on",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine)",
+            "tense": "Article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "hermoso",
+            "definition": "Beautiful, lovely, handsome",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "hermoso"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "un",
+            "definition": "A, one (masculine)",
+            "tense": "Article",
+            "unconjugated": "uno/un"
+          },
+          {
+            "word": "lugar",
+            "definition": "Place, location, spot",
+            "tense": "Noun",
+            "unconjugated": "lugar"
+          },
+          {
+            "word": "lleno",
+            "definition": "Full, filled",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "lleno"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from, about",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun (plural)",
+            "unconjugated": "\u00e1rbol"
+          },
+          {
+            "word": "frondosos",
+            "definition": "Leafy, lush, verdant",
+            "tense": "Adjective (masculine plural)",
+            "unconjugated": "frondoso"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 ingiere la persona cada d\u00eda?\n2. \u00bfD\u00f3nde come la manzana?\n3. \u00bfC\u00f3mo es el parque? (Describe dos caracter\u00edsticas)\n4. \u00bfQu\u00e9 hay en el parque adem\u00e1s de manzanas?\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Fill in the missing words from the reading.\n\n1. __________ d\u00eda ingiero una manzana en el hermoso parque.\n2. El parque es un __________ lleno de \u00e1rboles __________.\n3. Ingiero __________ manzana __________ el hermoso parque.\n4. Los \u00e1rboles son __________ y __________.\n\n---\n\n## Exercise 3: Vocabulary Matching (Empareja las Palabras)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. frondosos | A. The (masculine) |\n| 2. hermoso | B. Leafy, lush |\n| 3. ingerir | C. Full, filled |\n| 4. el | D. Beautiful |\n| 5. lleno | E. To eat, to ingest |\n| 6. parque | F. Park |\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Complete the tasks below.\n\n**Part A - Verb Conjugation:**\nConjugate \"ingerir\" (to ingest/eat) in present indicative:\n- Yo __________ (I ingest)\n- T\u00fa __________ (You ingest)\n- \u00c9l/Ella __________ (He/She ingests)\n- Nosotros __________ (We ingest)\n\n**Part B - Adjective Agreement:**\nChange these adjectives to match the nouns:\n1. El \u00e1rbol __________ (hermoso/hermosa)\n2. Los \u00e1rboles __________ (frondoso/frondosos)\n3. El parque __________ (lleno/llena)\n4. La manzana __________ (hermoso/hermosa)\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following sentences to Spanish.\n\n1. Every day I eat an apple.\n   > __________\n\n2. The park is a beautiful place.\n   > __________\n\n3. The trees are leafy and lush.\n   > __________\n\n4. I ingest fruit in the park filled with trees.\n   > __________\n\n**Reverse Translation - Translate to English:**\n\n5. Cada d\u00eda ingiero una manzana en un lugar hermoso.\n   > __________\n\n6. El parque est\u00e1 lleno de \u00e1rboles frondosos.\n   > __________\n\n---\n\n## Answer Key (Clave de Respuestas)\n\n**Exercise 1:**\n1. Una manzana\n2. En el hermoso parque\n3. Es hermoso y est\u00e1 lleno de \u00e1rboles frondosos\n4. \u00c1rboles frondosos\n\n**Exercise 2:**\n1. Cada | 2. lugar, frondosos | 3. una, en | 4. hermosos, frondosos\n\n**Exercise 3:**\n1-B, 2-D, 3-E, 4-A, 5-C, 6-F\n\n**Exercise 4 (Part A):**\ningiero, ingieres, ingiere, ingerimos\n\n**Exercise 4 (Part B):**\n1. hermoso | 2. frondosos | 3. lleno | 4. hermosa\n\n**Exercise 5:**\n1. Cada d\u00eda ingiero una manzana.\n2. El parque es un lugar hermoso.\n3. Los \u00e1rboles son frondosos y lozanos.\n4. Ingiero fruta en el parque lleno de \u00e1rboles.\n5. Every day I eat an apple in a beautiful place.\n6. The park is full of leafy trees."
+    }
+  },
+  "2026-10-17T12:39:19.243449": {
+    "id": "2026-10-17T12:39:19.243449",
+    "timestamp": "2026-10-17T12:39:19.243449",
+    "input": "Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones gramaticales\n\nEl texto **no tiene errores gramaticales graves**. La estructura es correcta:\n- Sujeto + verbo + objeto complementos\n- Concordancia de g\u00e9nero y n\u00famero correcta\n- Tiempos verbales apropiados\n\n## 2. Sugerencias de vocabulario\n\n| Palabra actual | Alternativa | Justificaci\u00f3n |\n|---|---|---|\n| **bonito** | hermoso, precioso, encantador | Son m\u00e1s descriptivos y expresivos |\n| **hay muchos \u00e1rboles** | est\u00e1 lleno de \u00e1rboles, abundan los \u00e1rboles | M\u00e1s variaci\u00f3n l\u00e9xica |\n\n**Ejemplo mejorado:**\n> Yo como una manzana en el parque cada d\u00eda. El parque es hermoso y est\u00e1 lleno de \u00e1rboles frondosos.\n\n## 3. Mejoras de estilo\n\n**Puntos a trabajar:**\n\n- **Repetici\u00f3n de sujeto**: \"Yo como... El parque es...\" \u2192 Conectar las ideas mejor\n- **Falta de conexi\u00f3n**: Las frases son muy simples y aisladas\n- **Descripci\u00f3n limitada**: Agregar detalles sensoriales o contextuales\n\n**Versi\u00f3n mejorada:**\n\n> Cada d\u00eda como una manzana en el parque, un lugar hermoso y lleno de \u00e1rboles frondosos.\n\n**O m\u00e1s elaborado:**\n\n> Todos los d\u00edas disfruto comiendo una manzana en el parque, un espacio encantador repleto de \u00e1rboles que ofrecen una agradable sombra.\n\n---\n\n\u2705 **Resumen**: El texto es correcto pero algo simple. Trabaja en conectar mejor las ideas y enriquecer el vocabulario descriptivo.",
+      "reading_exercise": {
+        "text": "Todos los d\u00edas disfruto comiendo una manzana en el parque, un espacio encantador repleto de \u00e1rboles frondosos que ofrecen una agradable sombra.",
+        "words": [
+          {
+            "word": "Todos",
+            "definition": "All, every",
+            "tense": "Determiner (plural)",
+            "unconjugated": "todo"
+          },
+          {
+            "word": "los",
+            "definition": "The (plural masculine article)",
+            "tense": "Definite article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "d\u00edas",
+            "definition": "Days",
+            "tense": "Noun (plural)",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "disfruto",
+            "definition": "I enjoy",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "disfrutar"
+          },
+          {
+            "word": "comiendo",
+            "definition": "Eating",
+            "tense": "Present participle",
+            "unconjugated": "comer"
+          },
+          {
+            "word": "una",
+            "definition": "A, an (feminine)",
+            "tense": "Indefinite article",
+            "unconjugated": "un"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun (feminine, singular)",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "en",
+            "definition": "In, at",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine singular)",
+            "tense": "Definite article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun (masculine, singular)",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "espacio",
+            "definition": "Space, place",
+            "tense": "Noun (masculine, singular)",
+            "unconjugated": "espacio"
+          },
+          {
+            "word": "encantador",
+            "definition": "Charming, enchanting",
+            "tense": "Adjective (masculine, singular)",
+            "unconjugated": "encantador"
+          },
+          {
+            "word": "repleto",
+            "definition": "Full, filled with",
+            "tense": "Adjective (masculine, singular)",
+            "unconjugated": "repleto"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun (masculine, plural)",
+            "unconjugated": "\u00e1rbol"
+          },
+          {
+            "word": "frondosos",
+            "definition": "Leafy, lush",
+            "tense": "Adjective (masculine, plural)",
+            "unconjugated": "frondoso"
+          },
+          {
+            "word": "que",
+            "definition": "That, which",
+            "tense": "Relative pronoun",
+            "unconjugated": "que"
+          },
+          {
+            "word": "ofrecen",
+            "definition": "They offer",
+            "tense": "Present indicative, 3rd person plural",
+            "unconjugated": "ofrecer"
+          },
+          {
+            "word": "una",
+            "definition": "A, an (feminine)",
+            "tense": "Indefinite article",
+            "unconjugated": "un"
+          },
+          {
+            "word": "agradable",
+            "definition": "Pleasant, agreeable",
+            "tense": "Adjective (feminine, singular)",
+            "unconjugated": "agradable"
+          },
+          {
+            "word": "sombra",
+            "definition": "Shade, shadow",
+            "tense": "Noun (feminine, singular)",
+            "unconjugated": "sombra"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 disfruta el autor todos los d\u00edas?\n2. \u00bfD\u00f3nde come la manzana?\n3. \u00bfC\u00f3mo es el parque? Describe dos caracter\u00edsticas.\n4. \u00bfQu\u00e9 ofrecen los \u00e1rboles frondosos?\n5. \u00bfPor qu\u00e9 el parque es un espacio agradable?\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences\n**Instructions:** Complete the sentences with the correct words from the word bank.\n\n**Word Bank:** disfruto, manzana, \u00e1rboles, sombra, repleto, en, encantador\n\n1. _____________ comiendo una _____________ es mi actividad favorita.\n2. El parque es un espacio _____________ _____________ de _____________ frondosos.\n3. Los \u00e1rboles ofrecen una agradable _____________.\n4. _____________ el parque, hay muchos lugares bonitos.\n\n---\n\n## Exercise 3: Vocabulary Matching\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. encantador | a. Leafy, lush |\n| 2. repleto | b. Charming, enchanting |\n| 3. frondosos | c. Full, filled with |\n| 4. sombra | d. Shade, shadow |\n| 5. agradable | e. Pleasant, agreeable |\n\n---\n\n## Exercise 4: Grammar Practice\n**Instructions:** Identify the grammatical form and rewrite as requested.\n\n**Part A:** Identify the tense\n1. \"disfruto\" - _________________ (tense and person)\n2. \"comiendo\" - _________________ (grammatical form)\n3. \"ofrecen\" - _________________ (tense and person)\n\n**Part B:** Conjugate the verb \"disfrutar\" in the present indicative\n- Yo _________________ (I enjoy)\n- T\u00fa _________________ (You enjoy)\n- \u00c9l/Ella _________________ (He/She enjoys)\n- Nosotros _________________ (We enjoy)\n- Ustedes _________________ (You all enjoy)\n\n**Part C:** Change the gender and number\n1. \"un parque encantador\" \u2192 \"una _____________ _____________\"\n2. \"\u00e1rboles frondosos\" \u2192 \"un _____________ _____________\"\n\n---\n\n## Exercise 5: Translation Exercises\n**Instructions:** Translate the following sentences from English to Spanish.\n\n1. Every day I enjoy eating an apple in the park.\n   _________________________________________________________________\n\n2. The park is a charming space full of leafy trees.\n   _________________________________________________________________\n\n3. Those lush trees offer pleasant shade.\n   _________________________________________________________________\n\n4. I eat a delicious apple in that enchanting place.\n   _________________________________________________________________\n\n5. All the trees in the park are full of leaves.\n   _________________________________________________________________\n\n---\n\n## Answer Key (Teacher Reference)\n\n**Exercise 1:**\n1. Disfruta comiendo una manzana.\n2. En el parque.\n3. Es encantador y repleto de \u00e1rboles frondosos.\n4. Ofrecen una agradable sombra.\n5. Porque tiene \u00e1rboles frondosos que ofrecen sombra agradable.\n\n**Exercise 2:**\n1. Disfrutar, manzana\n2. encantador, repleto, \u00e1rboles\n3. sombra\n4. En\n\n**Exercise 3:**\n1. b | 2. c | 3. a | 4. d | 5. e\n\n**Exercise 4 - Part A:**\n1. Present indicative, 1st person singular\n2. Present participle\n3. Present indicative, 3rd person plural\n\n**Exercise 4 - Part B:**\n- disfruto | disfrutas | disfruta | disfrutamos | disfrutan\n\n**Exercise 4 - Part C:**\n1. una parque/zona encantadora\n2. un \u00e1rbol frondoso\n\n**Exercise 5:** (Sample answers)\n1. Todos los d\u00edas disfruto comiendo una manzana en el parque.\n2. El parque es un espacio encantador repleto de \u00e1rboles frondosos.\n3. Esos \u00e1rboles frondosos ofrecen una agradable sombra.\n4. Como una manzana deliciosa en ese lugar encantador.\n5. Todos los \u00e1rboles en el parque est\u00e1n repletos de hojas."
+    }
+  },
+  "2026-10-17T12:44:48.053034": {
+    "id": "2026-10-17T12:44:48.053034",
+    "timestamp": "2026-10-17T12:44:48.053034",
+    "input": "Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones Gramaticales \u2713\n\n**El texto est\u00e1 gramaticalmente correcto.** La estructura de las oraciones es apropiada y la conjugaci\u00f3n verbal es exacta.\n\n---\n\n## 2. Sugerencias de Vocabulario\n\n| Palabra actual | Alternativa | Raz\u00f3n |\n|---|---|---|\n| **bonito** | hermoso, precioso, encantador | M\u00e1s variado y expresivo |\n| **hay muchos \u00e1rboles** | est\u00e1 lleno de \u00e1rboles, abundan los \u00e1rboles | M\u00e1s espec\u00edfico y literario |\n\n**Ejemplo mejorado:**\n> \"El parque es muy hermoso y **est\u00e1 lleno de \u00e1rboles frondosos**.\"\n\n---\n\n## 3. Mejoras en la Redacci\u00f3n\n\n### Versi\u00f3n original:\n\"Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.\"\n\n### Versiones mejoradas:\n\n**Opci\u00f3n 1 (m\u00e1s natural):**\n> \"Cada d\u00eda como una manzana en el parque, que es muy hermoso y est\u00e1 rodeado de \u00e1rboles.\"\n\n**Opci\u00f3n 2 (m\u00e1s descriptiva):**\n> \"Diariamente disfruto comiendo una manzana en el parque, un lugar hermoso repleto de vegetaci\u00f3n.\"\n\n**Opci\u00f3n 3 (m\u00e1s simple pero efectiva):**\n> \"Como una manzana todos los d\u00edas en el parque, que es muy bonito y tiene muchos \u00e1rboles.\"\n\n---\n\n## Observaciones finales\n\n- **Pronombre \"Yo\":** No es necesario incluirlo (el verbo ya indica el sujeto)\n- **Repetici\u00f3n:** Evita repetir \"parque\" en ambas oraciones usando pronombres o reestructurando\n- **Estilo:** Agrega conectores para m\u00e1s fluidez entre ideas\n\n\u00a1Buen trabajo! \ud83d\udc4d",
+      "reading_exercise": {
+        "text": "Cada d\u00eda como una manzana en el parque, que es muy hermoso y est\u00e1 rodeado de \u00e1rboles frondosos.",
+        "words": [
+          {
+            "word": "Cada",
+            "definition": "Every, each",
+            "tense": "Determiner",
+            "unconjugated": "cada"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day",
+            "tense": "Noun",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "como",
+            "definition": "I eat",
+            "tense": "Present Indicative, 1st person singular",
+            "unconjugated": "comer"
+          },
+          {
+            "word": "una",
+            "definition": "A, one (feminine)",
+            "tense": "Indefinite Article",
+            "unconjugated": "un/una"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun (feminine)",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "en",
+            "definition": "In, at",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine)",
+            "tense": "Definite Article",
+            "unconjugated": "el/la"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun (masculine)",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "que",
+            "definition": "That, which",
+            "tense": "Relative Pronoun",
+            "unconjugated": "que"
+          },
+          {
+            "word": "es",
+            "definition": "Is",
+            "tense": "Present Indicative, 3rd person singular",
+            "unconjugated": "ser"
+          },
+          {
+            "word": "muy",
+            "definition": "Very, very much",
+            "tense": "Adverb",
+            "unconjugated": "muy"
+          },
+          {
+            "word": "hermoso",
+            "definition": "Beautiful, handsome",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "hermoso"
+          },
+          {
+            "word": "y",
+            "definition": "And",
+            "tense": "Conjunction",
+            "unconjugated": "y"
+          },
+          {
+            "word": "est\u00e1",
+            "definition": "Is, is located",
+            "tense": "Present Indicative, 3rd person singular",
+            "unconjugated": "estar"
+          },
+          {
+            "word": "rodeado",
+            "definition": "Surrounded",
+            "tense": "Past Participle (masculine singular)",
+            "unconjugated": "rodear"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun (masculine plural)",
+            "unconjugated": "\u00e1rbol"
+          },
+          {
+            "word": "frondosos",
+            "definition": "Leafy, lush",
+            "tense": "Adjective (masculine plural)",
+            "unconjugated": "frondoso"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in complete sentences based on the reading.\n\n1. \u00bfQu\u00e9 come cada d\u00eda?\n2. \u00bfD\u00f3nde come la manzana?\n3. \u00bfC\u00f3mo es el parque?\n4. \u00bfQu\u00e9 rodea el parque?\n\n**Answer Key:**\n1. Cada d\u00eda como una manzana.\n2. Come la manzana en el parque.\n3. El parque es muy hermoso.\n4. El parque est\u00e1 rodeado de \u00e1rboles frondosos.\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Complete the sentences with the correct word from the text.\n\n1. _______ d\u00eda como una manzana en el parque.\n2. El parque es muy _______ y est\u00e1 rodeado de \u00e1rboles.\n3. _______ manzana es mi fruta favorita.\n4. Los \u00e1rboles son _______.\n5. El parque est\u00e1 _______ de \u00e1rboles frondosos.\n\n**Answer Key:**\n1. Cada\n2. hermoso\n3. Una\n4. frondosos\n5. rodeado\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejar Vocabulario)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. Manzana | A. Trees |\n| 2. Parque | B. Leafy, lush |\n| 3. \u00c1rboles | C. Apple |\n| 4. Hermoso | D. Surrounded |\n| 5. Rodeado | E. Beautiful |\n| 6. Frondosos | F. Park |\n\n**Answer Key:** 1-C, 2-F, 3-A, 4-E, 5-D, 6-B\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Identify the grammatical function of each word and rewrite the sentences as indicated.\n\n**Part A: Verb Conjugation**\nChange the verb \"como\" to match the subjects:\n\n1. Yo _______ (comer) una manzana. \u2192 Como\n2. T\u00fa _______ (comer) una manzana. \u2192 Comes\n3. \u00c9l/Ella _______ (comer) una manzana. \u2192 Come\n4. Nosotros _______ (comer) una manzana. \u2192 Comemos\n\n**Part B: Adjective Agreement**\nComplete with the correct form of the adjective:\n\n1. El parque es _______ (hermoso/hermosa). \u2192 hermoso\n2. La manzana es _______ (frondoso/frondosa). \u2192 (N/A - doesn't apply)\n3. Los \u00e1rboles son _______ (frondoso/frondosos). \u2192 frondosos\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following sentences from Spanish to English.\n\n1. Cada d\u00eda como una manzana en el parque.\n   **Answer:** Every day I eat an apple in the park.\n\n2. El parque es muy hermoso.\n   **Answer:** The park is very beautiful.\n\n3. Est\u00e1 rodeado de \u00e1rboles frondosos.\n   **Answer:** It is surrounded by leafy trees.\n\n4. La manzana est\u00e1 en el parque.\n   **Answer:** The apple is in the park.\n\n5. Los \u00e1rboles frondosos rodean el parque.\n   **Answer:** The leafy trees surround the park.\n\n---\n\n## Bonus: Challenge Activity (Actividad de Desaf\u00edo)\n\n**Instructions:** Create 3 original sentences using at least 5 words from the text. Try to use different verb tenses (present, past, future if possible).\n\n**Example Answer:**\n- Cada ma\u00f1ana como una manzana deliciosa en el hermoso parque.\n- Ayer com\u00ed en el parque que est\u00e1 rodeado de \u00e1rboles.\n- Ma\u00f1ana comer\u00e9 frutas en el parque frondoso."
+    }
+  },
+  "2026-10-17T12:45:25.571768": {
+    "id": "2026-10-17T12:45:25.571768",
+    "timestamp": "2026-10-17T12:45:25.571768",
+    "input": "Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del Texto\n\n## 1. Correcciones Gramaticales\n\n\u2713 **El texto es gramaticalmente correcto.** No hay errores estructurales significativos.\n\n- La conjugaci\u00f3n del verbo \"como\" es apropiada\n- La concordancia entre sujeto y verbo es correcta\n- La puntuaci\u00f3n es adecuada\n\n---\n\n## 2. Sugerencias de Vocabulario\n\n| Palabra Actual | Alternativas | Observaci\u00f3n |\n|---|---|---|\n| **bonito** | hermoso, precioso, encantador, agradable | \"Bonito\" es correcto pero muy com\u00fan; considera sin\u00f3nimos m\u00e1s descriptivos |\n| **hay** | existe, se encuentran | Opciones m\u00e1s formales o po\u00e9ticas |\n\n**Ejemplos mejorados:**\n- \"El parque es *hermoso* y hay muchos \u00e1rboles\"\n- \"El parque es muy *agradable* y est\u00e1 lleno de \u00e1rboles\"\n\n---\n\n## 3. Mejoras en la Redacci\u00f3n\n\n### Problemas identificados:\n- **Repetici\u00f3n de \"hay/es\"**: Las dos oraciones usan estructura muy similar\n- **Falta de conectores**: Las ideas se presentan de forma aislada\n- **Poco detalle descriptivo**: Podr\u00eda ser m\u00e1s vivido\n\n### Versi\u00f3n mejorada:\n\n**Original:**\n> Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.\n\n**Opci\u00f3n 1 (m\u00e1s natural):**\n> Cada d\u00eda como una manzana en el parque, un lugar hermoso lleno de \u00e1rboles frondosos.\n\n**Opci\u00f3n 2 (m\u00e1s descriptiva):**\n> Me encanta comer una manzana diariamente en el parque, donde los \u00e1rboles crean un ambiente tranquilo y acogedor.\n\n### Cambios recomendados:\n- \u270e Elimina \"Yo\" al inicio (innecesario en espa\u00f1ol)\n- \u270e Reordena: \"Cada d\u00eda...\" es m\u00e1s natural que \"cada d\u00eda\" al final\n- \u270e Combina las oraciones para mejor fluidez\n- \u270e A\u00f1ade adjetivos m\u00e1s espec\u00edficos (\"frondosos\", \"tranquilo\")",
+      "reading_exercise": {
+        "text": "Cada d\u00eda como una manzana en el parque, un lugar hermoso lleno de \u00e1rboles frondosos.",
+        "words": [
+          {
+            "word": "Cada",
+            "definition": "Each, every",
+            "tense": "Determiner",
+            "unconjugated": "cada"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day",
+            "tense": "Noun (masculine)",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "como",
+            "definition": "I eat",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "comer"
+          },
+          {
+            "word": "una",
+            "definition": "A, one (feminine)",
+            "tense": "Indefinite article",
+            "unconjugated": "uno/una"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun (feminine)",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "en",
+            "definition": "In, at, on",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine)",
+            "tense": "Definite article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun (masculine)",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "un",
+            "definition": "A, one (masculine)",
+            "tense": "Indefinite article",
+            "unconjugated": "uno/un"
+          },
+          {
+            "word": "lugar",
+            "definition": "Place, location",
+            "tense": "Noun (masculine)",
+            "unconjugated": "lugar"
+          },
+          {
+            "word": "hermoso",
+            "definition": "Beautiful, lovely",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "hermoso"
+          },
+          {
+            "word": "lleno",
+            "definition": "Full, filled",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "lleno"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun (masculine plural)",
+            "unconjugated": "\u00e1rbol"
+          },
+          {
+            "word": "frondosos",
+            "definition": "Leafy, lush, full of foliage",
+            "tense": "Adjective (masculine plural)",
+            "unconjugated": "frondoso"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 come la persona cada d\u00eda?\n2. \u00bfD\u00f3nde come la manzana?\n3. \u00bfC\u00f3mo es el parque?\n4. \u00bfQu\u00e9 hay en el parque?\n\n**Answers:**\n1. Come una manzana cada d\u00eda.\n2. Come en el parque.\n3. Es un lugar hermoso lleno de \u00e1rboles frondosos.\n4. Hay \u00e1rboles frondosos.\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Fill in the blanks with the correct word from the text.\n\n1. Cada __________ como una manzana en el parque.\n2. El parque es un __________ hermoso.\n3. El parque est\u00e1 __________ de \u00e1rboles frondosos.\n4. Los __________ son frondosos y verdes.\n\n**Answers:**\n1. d\u00eda\n2. lugar\n3. lleno\n4. \u00e1rboles\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejar Vocabulario)\n\n**Instructions:** Match each Spanish word with its English translation.\n\n| Spanish | English |\n|---------|---------|\n| 1. hermoso | a) Full, filled |\n| 2. frondoso | b) Each, every |\n| 3. lleno | c) Beautiful, lovely |\n| 4. cada | d) Leafy, lush |\n| 5. lugar | e) Place, location |\n\n**Answers:** 1-c, 2-d, 3-a, 4-b, 5-e\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Identify the grammatical function of each word.\n\n1. **Cada** - _______________\n2. **como** - _______________\n3. **una** - _______________\n4. **en** - _______________\n5. **frondosos** - _______________\n\n**Answers:**\n1. Determiner\n2. Verb (Present indicative, 1st person singular)\n3. Indefinite article (feminine)\n4. Preposition\n5. Adjective (masculine plural)\n\n**Extension:** Conjugate **comer** in present tense for all persons:\n- Yo ___________\n- T\u00fa ___________\n- \u00c9l/Ella ___________\n- Nosotros ___________\n- Vosotros ___________\n- Ellos/Ellas ___________\n\n**Answers:** como, comes, come, comemos, com\u00e9is, comen\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions A:** Translate the following phrases into English.\n\n1. Cada d\u00eda\n2. Una manzana\n3. En el parque\n4. Un lugar hermoso\n5. \u00c1rboles frondosos\n\n**Answers:**\n1. Each day / Every day\n2. An apple\n3. In the park\n4. A beautiful place\n5. Leafy trees\n\n**Instructions B:** Translate the following sentences into Spanish.\n\n1. I eat an apple every day.\n2. The park is full of trees.\n3. It's a beautiful place.\n4. The trees are leafy.\n\n**Answers:**\n1. Como una manzana cada d\u00eda.\n2. El parque est\u00e1 lleno de \u00e1rboles.\n3. Es un lugar hermoso.\n4. Los \u00e1rboles son frondosos."
+    }
+  },
+  "2026-10-23T23:04:54.653140": {
+    "id": "2026-10-23T23:04:54.653140",
+    "timestamp": "2026-10-23T23:04:54.653140",
+    "input": "Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. **Correcciones gramaticales**\n\nEl texto est\u00e1 **gramaticalmente correcto**. La estructura de las oraciones es adecuada:\n- \"Yo como una manzana...\" (presente indicativo - correcto)\n- \"El parque es muy bonito...\" (verbo ser - correcto)\n- \"hay muchos \u00e1rboles\" (verbo haber - correcto)\n\n## 2. **Sugerencias de vocabulario**\n\n| Palabra actual | Alternativas | Contexto |\n|---|---|---|\n| **bonito** | hermoso, precioso, encantador, agradable | M\u00e1s variado y expresivo |\n| **hay** | se encuentran, posee | Para mayor precisi\u00f3n |\n| **cada d\u00eda** | diariamente, todos los d\u00edas | M\u00e1s natural o formal |\n\n## 3. **Mejoras de estilo**\n\n**Versi\u00f3n original:**\n> Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.\n\n**Versiones mejoradas:**\n\n- **M\u00e1s natural (informal):**\n> Cada d\u00eda como una manzana en el parque. Es un lugar hermoso, lleno de \u00e1rboles.\n\n- **M\u00e1s descriptiva (formal):**\n> Diariamente disfruto de una manzana en el parque, un espacio encantador rodeado de frondosos \u00e1rboles.\n\n- **M\u00e1s concisa:**\n> Todos los d\u00edas como una manzana en el precioso parque, que tiene muchos \u00e1rboles.\n\n**Observaciones:**\n- El pronombre \"Yo\" es redundante en espa\u00f1ol\n- Conecta mejor las ideas para mayor fluidez\n- A\u00f1ade m\u00e1s detalles descriptivos",
+      "reading_exercise": {
+        "text": "Cada d\u00eda como una manzana en el parque. Es un lugar hermoso, lleno de \u00e1rboles frondosos.",
+        "words": [
+          {
+            "word": "Cada",
+            "definition": "Each, every",
+            "tense": "Determiner",
+            "unconjugated": "cada"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day",
+            "tense": "Noun (masculine)",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "como",
+            "definition": "I eat",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "comer"
+          },
+          {
+            "word": "una",
+            "definition": "A, an (feminine)",
+            "tense": "Indefinite article",
+            "unconjugated": "un/una"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun (feminine)",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "en",
+            "definition": "In, at",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine)",
+            "tense": "Definite article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun (masculine)",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "Es",
+            "definition": "It is",
+            "tense": "Present indicative, 3rd person singular",
+            "unconjugated": "ser"
+          },
+          {
+            "word": "un",
+            "definition": "A, an (masculine)",
+            "tense": "Indefinite article",
+            "unconjugated": "un/una"
+          },
+          {
+            "word": "lugar",
+            "definition": "Place, location",
+            "tense": "Noun (masculine)",
+            "unconjugated": "lugar"
+          },
+          {
+            "word": "hermoso",
+            "definition": "Beautiful, lovely",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "hermoso"
+          },
+          {
+            "word": "lleno",
+            "definition": "Full, filled",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "lleno"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun (masculine plural)",
+            "unconjugated": "\u00e1rbol"
+          },
+          {
+            "word": "frondosos",
+            "definition": "Leafy, lush",
+            "tense": "Adjective (masculine plural)",
+            "unconjugated": "frondoso"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfD\u00f3nde come una manzana cada d\u00eda?\n2. \u00bfQu\u00e9 tipo de lugar es el parque?\n3. \u00bfC\u00f3mo son los \u00e1rboles del parque?\n4. \u00bfQu\u00e9 fruta come la persona?\n\n**Answer Key:**\n1. Come una manzana en el parque.\n2. Es un lugar hermoso, lleno de \u00e1rboles.\n3. Son frondosos (lush/leafy).\n4. Come una manzana.\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Fill in the missing words from the word bank.\n\n**Word Bank:** cada, manzana, hermoso, parque, lleno, \u00e1rboles\n\n1. _______ d\u00eda como una _______ en el parque.\n2. El parque es un lugar _______ de _______.\n3. Los _______ son frondosos en ese _______.\n\n**Answer Key:**\n1. Cada, manzana\n2. hermoso, \u00e1rboles\n3. \u00e1rboles, parque\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejar Vocabulario)\n\n**Instructions:** Match Spanish words with their English definitions.\n\n| Spanish | English |\n|---------|---------|\n| 1. frondoso | A. Full, filled |\n| 2. lugar | B. Leafy, lush |\n| 3. lleno | C. Beautiful |\n| 4. hermoso | D. Place, location |\n| 5. \u00e1rbol | E. Tree |\n\n**Answer Key:** 1-B, 2-D, 3-A, 4-C, 5-E\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica de Gram\u00e1tica)\n\n**Instructions:** Identify the grammatical function of each highlighted word.\n\n1. **Cada** d\u00eda como una manzana.\n   - a) Verb  b) Determiner  c) Noun\n\n2. Cada d\u00eda **como** una manzana.\n   - a) Preposition  b) Verb (1st person singular)  c) Adjective\n\n3. Como una **manzana** en el parque.\n   - a) Feminine noun  b) Masculine noun  c) Adjective\n\n4. Es un **lugar** hermoso.\n   - a) Adjective  b) Preposition  c) Masculine noun\n\n5. Los \u00e1rboles son **frondosos**.\n   - a) Noun  b) Masculine plural adjective  c) Verb\n\n**Answer Key:** 1-b, 2-b, 3-a, 4-c, 5-b\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n### Part A: Spanish to English\n**Instructions:** Translate the following sentences to English.\n\n1. Cada d\u00eda como una manzana en el parque.\n2. Es un lugar hermoso, lleno de \u00e1rboles frondosos.\n3. El parque tiene muchos \u00e1rboles.\n\n### Part B: English to Spanish\n**Instructions:** Translate the following sentences to Spanish.\n\n1. Every day I eat an apple in the park.\n2. It is a beautiful place.\n3. The trees are leafy and lush.\n\n**Answer Key:**\n\n**Part A:**\n1. Every day I eat an apple in the park.\n2. It is a beautiful place, full of leafy trees.\n3. The park has many trees.\n\n**Part B:**\n1. Cada d\u00eda como una manzana en el parque.\n2. Es un lugar hermoso.\n3. Los \u00e1rboles son frondosos y exuberantes."
+    }
+  },
+  "2026-10-23T23:06:00.530743": {
+    "id": "2026-10-23T23:06:00.530743",
+    "timestamp": "2026-10-23T23:06:00.530743",
+    "input": "Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto\n\n## 1. Correcciones Gramaticales \u2713\n\n**El texto es gramaticalmente correcto.** No hay errores de conjugaci\u00f3n, concordancia o estructura sint\u00e1ctica.\n\n---\n\n## 2. Sugerencias de Vocabulario\n\n| Palabra actual | Alternativas | Raz\u00f3n |\n|---|---|---|\n| **como** | consumo, ingiero | M\u00e1s formal y variado |\n| **muy bonito** | hermoso, encantador, precioso | M\u00e1s expresivo y menos repetitivo |\n| **hay** | se encuentran, existen | M\u00e1s sofisticado |\n\n**Ejemplo mejorado:**\n> *\"Consumo una manzana en el parque cada d\u00eda. El parque es hermoso y se encuentran muchos \u00e1rboles.\"*\n\n---\n\n## 3. Mejoras de Estilo\n\n### Problemas identificados:\n- **Repetici\u00f3n excesiva**: Aparece \"parque\" dos veces consecutivas\n- **Falta de cohesi\u00f3n**: Las oraciones son muy simples y aisladas\n- **Poco inter\u00e9s narrativo**: Informaci\u00f3n muy b\u00e1sica\n\n### Versi\u00f3n mejorada:\n\n> *\"Cada d\u00eda disfruto de una manzana en el parque, un lugar hermoso lleno de \u00e1rboles frondosos que me encanta visitar.\"*\n\n**Ventajas:**\n- \u2713 Evita la repetici\u00f3n\n- \u2713 A\u00f1ade detalles descriptivos (frondosos)\n- \u2713 Conecta las ideas de forma m\u00e1s natural\n- \u2713 Transmite emoci\u00f3n (me encanta)\n\n---\n\n**Conclusi\u00f3n:** Texto correcto pero mejorable en variedad y fluidez. \ud83d\udc4d",
+      "reading_exercise": {
+        "text": "Cada d\u00eda disfruto de una manzana en el parque, un lugar hermoso lleno de \u00e1rboles frondosos que me encanta visitar.",
+        "words": [
+          {
+            "word": "Cada",
+            "definition": "Each, every",
+            "tense": "Determiner",
+            "unconjugated": "cada"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day",
+            "tense": "Noun (masculine)",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "disfruto",
+            "definition": "I enjoy, I delight in",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "disfrutar"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "una",
+            "definition": "A, an (feminine)",
+            "tense": "Indefinite article (feminine singular)",
+            "unconjugated": "un/una"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun (feminine)",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "en",
+            "definition": "In, at",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine)",
+            "tense": "Definite article (masculine singular)",
+            "unconjugated": "el/la"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun (masculine)",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "un",
+            "definition": "A, an (masculine)",
+            "tense": "Indefinite article (masculine singular)",
+            "unconjugated": "un/una"
+          },
+          {
+            "word": "lugar",
+            "definition": "Place, location",
+            "tense": "Noun (masculine)",
+            "unconjugated": "lugar"
+          },
+          {
+            "word": "hermoso",
+            "definition": "Beautiful, lovely",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "hermoso"
+          },
+          {
+            "word": "lleno",
+            "definition": "Full, filled",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "lleno"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun (masculine plural)",
+            "unconjugated": "\u00e1rbol"
+          },
+          {
+            "word": "frondosos",
+            "definition": "Leafy, lush",
+            "tense": "Adjective (masculine plural)",
+            "unconjugated": "frondoso"
+          },
+          {
+            "word": "que",
+            "definition": "That, which, who",
+            "tense": "Relative pronoun",
+            "unconjugated": "que"
+          },
+          {
+            "word": "me",
+            "definition": "Me (indirect/direct object)",
+            "tense": "Personal pronoun (1st person singular)",
+            "unconjugated": "me"
+          },
+          {
+            "word": "encanta",
+            "definition": "Delights, enchants (3rd person singular - used with indirect object)",
+            "tense": "Present indicative, 3rd person singular",
+            "unconjugated": "encantar"
+          },
+          {
+            "word": "visitar",
+            "definition": "To visit",
+            "tense": "Infinitive",
+            "unconjugated": "visitar"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 disfruta el narrador cada d\u00eda?\n2. \u00bfD\u00f3nde come la manzana?\n3. \u00bfC\u00f3mo es el parque?\n4. \u00bfQu\u00e9 tipo de \u00e1rboles hay en el parque?\n5. \u00bfPor qu\u00e9 le encanta visitar este lugar?\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Fill in the missing words from the word bank.\n\n**Word Bank:** disfruto | hermoso | lleno | frondosos | encanta\n\n1. Cada d\u00eda __________ de una manzana en el parque.\n2. El parque es un lugar __________ que me __________.\n3. Hay muchos \u00e1rboles __________ en el parque.\n4. El parque est\u00e1 __________ de naturaleza.\n\n---\n\n## Exercise 3: Vocabulary Matching (Empareja las Palabras)\n\n**Instructions:** Match each Spanish word with its correct English translation.\n\n| Spanish | English |\n|---------|---------|\n| 1. manzana | a. Trees |\n| 2. parque | b. Beautiful |\n| 3. \u00e1rboles | c. Apple |\n| 4. hermoso | d. Leafy |\n| 5. frondosos | e. Park |\n| 6. lugar | f. Place |\n\n**Answer Key:** 1-c, 2-e, 3-a, 4-b, 5-d, 6-f\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica de Gram\u00e1tica)\n\n**Instructions:** Answer the following grammar questions.\n\n1. **Conjugation:** Write the present indicative conjugation of \"disfrutar\" for all persons.\n   - Yo __________ \n   - T\u00fa __________\n   - \u00c9l/Ella __________\n   - Nosotros __________\n   - Vosotros __________\n   - Ellos/Ellas __________\n\n2. **Articles:** Identify whether each article is definite or indefinite:\n   - el parque: __________\n   - una manzana: __________\n   - un lugar: __________\n\n3. **Adjective Agreement:** Choose the correct form:\n   - Los \u00e1rboles son (frondoso/frondosos) \u2192 __________\n   - El parque es (hermoso/hermosa) \u2192 __________\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following sentences from English to Spanish.\n\n1. Every day I enjoy an apple in the park.\n   \n   __________________________________________\n\n2. The park is a beautiful place.\n   \n   __________________________________________\n\n3. The park is full of leafy trees.\n   \n   __________________________________________\n\n4. I love to visit this place.\n   \n   __________________________________________\n\n5. There are many trees in the park that I like.\n   \n   __________________________________________\n\n---\n\n### Answer Key for Exercise 5:\n1. Cada d\u00eda disfruto de una manzana en el parque.\n2. El parque es un lugar hermoso.\n3. El parque est\u00e1 lleno de \u00e1rboles frondosos.\n4. Me encanta visitar este lugar.\n5. Hay muchos \u00e1rboles en el parque que me gustan."
+    }
+  },
+  "2026-10-23T23:07:10.555517": {
+    "id": "2026-10-23T23:07:10.555517",
+    "timestamp": "2026-10-23T23:07:10.555517",
+    "input": "Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del Texto en Espa\u00f1ol\n\n## 1. Correcciones Gramaticales\n\n\u2705 **El texto est\u00e1 gramaticalmente correcto.** No hay errores de conjugaci\u00f3n, concordancia o estructura sint\u00e1ctica.\n\n---\n\n## 2. Sugerencias de Vocabulario\n\n| Palabra Original | Alternativas | Observaci\u00f3n |\n|---|---|---|\n| **como** | consumo, ingiero | \"Como\" es correcto, pero estos verbos son m\u00e1s formales |\n| **bonito** | hermoso, precioso, encantador | \"Bonito\" es b\u00e1sico; prueba con sin\u00f3nimos m\u00e1s descriptivos |\n| **hay** | existen, se encuentran | Alternativas m\u00e1s literarias |\n\n**Ejemplo mejorado:**\n> Consumo una manzana en el parque cada d\u00eda. El parque es muy hermoso y existen muchos \u00e1rboles.\n\n---\n\n## 3. Mejoras de Estilo\n\n### Problemas identificados:\n\n- **Falta de variaci\u00f3n:** Las dos oraciones comienzan con sujeto + verbo (estructura muy simple)\n- **Repetici\u00f3n de palabras:** \"parque\" aparece dos veces en tres l\u00edneas\n- **Falta de conexi\u00f3n:** Las ideas est\u00e1n separadas sin transiciones\n\n### Versi\u00f3n mejorada:\n\n> **Opci\u00f3n 1 (m\u00e1s natural):**\n> \"Cada d\u00eda como una manzana en el parque, un lugar hermoso lleno de \u00e1rboles.\"\n\n> **Opci\u00f3n 2 (m\u00e1s descriptiva):**\n> \"Disfruto comiendo una manzana diariamente en el parque, donde abundan los \u00e1rboles y reina una atm\u00f3sfera tranquila.\"\n\n---\n\n## Resumen\n\u2705 Gram\u00e1tica: Excelente | \ud83d\udcda Vocabulario: B\u00e1sico | \u270d\ufe0f Estilo: Muy simple\n\n**Recomendaci\u00f3n:** Combina oraciones y usa vocabulario m\u00e1s variado para enriquecer tu escritura.",
+      "reading_exercise": {
+        "text": "Cada d\u00eda como una manzana en el parque, un lugar hermoso lleno de \u00e1rboles.",
+        "words": [
+          {
+            "word": "Cada",
+            "definition": "Every; each",
+            "tense": "Determiner",
+            "unconjugated": "cada"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day",
+            "tense": "Noun (masculine)",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "como",
+            "definition": "I eat",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "comer"
+          },
+          {
+            "word": "una",
+            "definition": "A (feminine article)",
+            "tense": "Indefinite article",
+            "unconjugated": "uno/una"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun (feminine)",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "en",
+            "definition": "In; at",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine article)",
+            "tense": "Definite article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun (masculine)",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "un",
+            "definition": "A (masculine article)",
+            "tense": "Indefinite article",
+            "unconjugated": "uno/un"
+          },
+          {
+            "word": "lugar",
+            "definition": "Place; location",
+            "tense": "Noun (masculine)",
+            "unconjugated": "lugar"
+          },
+          {
+            "word": "hermoso",
+            "definition": "Beautiful; lovely",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "hermoso"
+          },
+          {
+            "word": "lleno",
+            "definition": "Full; filled",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "lleno"
+          },
+          {
+            "word": "de",
+            "definition": "Of; from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun (masculine plural)",
+            "unconjugated": "\u00e1rbol"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 come la persona cada d\u00eda?\n2. \u00bfD\u00f3nde come la manzana?\n3. \u00bfC\u00f3mo es el parque?\n4. \u00bfQu\u00e9 hay en el parque?\n\n**Answers:**\n1. Come una manzana cada d\u00eda.\n2. Come en el parque.\n3. Es un lugar hermoso lleno de \u00e1rboles.\n4. Hay \u00e1rboles en el parque.\n\n---\n\n## Exercise 2: Fill-in-the-Blank (Completa las Oraciones)\n\n**Instructions:** Complete the sentences using words from the text.\n\n1. _______ d\u00eda como una manzana en el parque.\n2. El parque es un lugar _______ lleno de \u00e1rboles.\n3. Como una _______ en _______ parque.\n4. El parque est\u00e1 _______ de \u00e1rboles hermosos.\n\n**Answers:**\n1. Cada\n2. hermoso\n3. manzana, el\n4. lleno\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejar Vocabulario)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. manzana | a) Every; each |\n| 2. parque | b) Trees |\n| 3. cada | c) Apple |\n| 4. \u00e1rboles | d) Beautiful |\n| 5. hermoso | e) Park |\n| 6. lugar | f) Full |\n| 7. lleno | g) Place; location |\n\n**Answers:** 1-c, 2-e, 3-a, 4-b, 5-d, 6-g, 7-f\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Identify the grammatical role and correct the gender/number agreement if needed.\n\n1. \"una manzana\" - What type of article is \"una\"? Is the gender agreement correct?\n2. \"el parque\" - Change this to plural form.\n3. \"hermoso\" - What part of speech is this word? Change it to feminine singular form.\n4. Conjugate \"comer\" for the following subjects:\n   - yo: _______\n   - t\u00fa: _______\n   - \u00e9l/ella: _______\n\n**Answers:**\n1. Indefinite article (feminine); YES, correct (manzana is feminine)\n2. los parques\n3. Adjective; hermosa\n4. yo como, t\u00fa comes, \u00e9l/ella come\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following from English to Spanish.\n\n1. I eat an apple every day.\n2. The park is a beautiful place.\n3. The park is full of trees.\n4. In the park, every day, I eat an apple.\n\n**Answers:**\n1. Como una manzana cada d\u00eda.\n2. El parque es un lugar hermoso.\n3. El parque est\u00e1 lleno de \u00e1rboles.\n4. En el parque, cada d\u00eda, como una manzana.\n\n---"
+    }
+  },
+  "2026-10-23T23:07:49.053608": {
+    "id": "2026-10-23T23:07:49.053608",
+    "timestamp": "2026-10-23T23:07:49.053608",
+    "input": "Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones gramaticales\n\n\u2713 El texto es **gramaticalmente correcto**. La estructura y conjugaci\u00f3n de verbos son adecuadas.\n\n---\n\n## 2. Sugerencias de vocabulario\n\n| Palabra actual | Alternativas | Raz\u00f3n |\n|---|---|---|\n| **como** | consumo, ingiero | M\u00e1s formal/variado |\n| **muy bonito** | hermoso, precioso, encantador | Vocabulario m\u00e1s rico |\n| **hay muchos \u00e1rboles** | abundan los \u00e1rboles, se encuentran numerosos \u00e1rboles | M\u00e1s descriptivo |\n\n---\n\n## 3. Mejoras en la redacci\u00f3n\n\n**Versi\u00f3n original:**\n> Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.\n\n**Sugerencias progresivas:**\n\n**Opci\u00f3n 1 (Peque\u00f1os ajustes):**\n> Cada d\u00eda como una manzana en el parque. Es un lugar muy bonito, lleno de \u00e1rboles.\n\n**Opci\u00f3n 2 (M\u00e1s elaborada):**\n> Cada d\u00eda disfruto comiendo una manzana en el hermoso parque que est\u00e1 lleno de \u00e1rboles.\n\n**Opci\u00f3n 3 (M\u00e1s descriptiva):**\n> Tengo la costumbre de comer una manzana diariamente en el parque, un lugar encantador donde abundan los \u00e1rboles.\n\n---\n\n## Observaciones generales\n- Evita el pronombre \"yo\" innecesario (redundante con el verbo)\n- Conecta mejor las ideas con conjunciones\n- Usa vocabulario m\u00e1s variado para enriquecer el texto",
+      "reading_exercise": {
+        "text": "Cada d\u00eda disfruto comiendo una manzana en el hermoso parque que est\u00e1 lleno de \u00e1rboles.",
+        "words": [
+          {
+            "word": "Cada",
+            "definition": "Each, every",
+            "tense": "Determiner",
+            "unconjugated": "cada"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day",
+            "tense": "Noun",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "disfruto",
+            "definition": "I enjoy",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "disfrutar"
+          },
+          {
+            "word": "comiendo",
+            "definition": "Eating",
+            "tense": "Present participle (gerund)",
+            "unconjugated": "comer"
+          },
+          {
+            "word": "una",
+            "definition": "A, an (feminine)",
+            "tense": "Indefinite article",
+            "unconjugated": "una"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "en",
+            "definition": "In, at",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine)",
+            "tense": "Definite article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "hermoso",
+            "definition": "Beautiful, lovely",
+            "tense": "Adjective",
+            "unconjugated": "hermoso"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "que",
+            "definition": "That, which, who",
+            "tense": "Relative pronoun",
+            "unconjugated": "que"
+          },
+          {
+            "word": "est\u00e1",
+            "definition": "Is, is located",
+            "tense": "Present indicative, 3rd person singular (ser/estar)",
+            "unconjugated": "estar"
+          },
+          {
+            "word": "lleno",
+            "definition": "Full, filled",
+            "tense": "Adjective",
+            "unconjugated": "lleno"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun (plural)",
+            "unconjugated": "\u00e1rbol"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the text.\n\n1. \u00bfQu\u00e9 disfruta comiendo cada d\u00eda?\n2. \u00bfD\u00f3nde come la manzana?\n3. \u00bfC\u00f3mo es el parque?\n4. \u00bfQu\u00e9 hay en el parque?\n\n**Answer Key:**\n1. Disfruta comiendo una manzana cada d\u00eda.\n2. En el hermoso parque.\n3. Es hermoso y est\u00e1 lleno de \u00e1rboles.\n4. Hay \u00e1rboles en el parque.\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Complete the sentences using words from the word bank.\n\n**Word Bank:** disfrutamos, lleno, parque, manzana, comiendo, \u00e1rboles\n\n1. Cada d\u00eda _____________ una _____________ en el parque.\n2. El _____________ est\u00e1 _____________ de _____________.\n3. Nosotros _____________ pasando tiempo en la naturaleza.\n\n**Answer Key:**\n1. disfruto comiendo / una manzana\n2. parque / lleno / \u00e1rboles\n3. disfrutamos\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejar Vocabulario)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. disfruto | A. Trees |\n| 2. hermoso | B. Full, filled |\n| 3. \u00e1rboles | C. I enjoy |\n| 4. lleno | D. Beautiful |\n| 5. manzana | E. Apple |\n| 6. parque | F. Park |\n\n**Answer Key:** 1-C, 2-D, 3-A, 4-B, 5-E, 6-F\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Conjugate the verb in parentheses to match the sentence.\n\n1. Yo _____________ (disfrutar) comiendo frutas cada d\u00eda.\n2. El parque _____________ (estar) lleno de \u00e1rboles hermosos.\n3. Cada d\u00eda _____________ (comer - gerund) en el parque.\n4. Nosotros _____________ (disfrutar) del hermoso parque.\n\n**Answer Key:**\n1. disfruto\n2. est\u00e1\n3. comiendo\n4. disfrutamos\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following sentences into Spanish.\n\n1. I enjoy eating an apple every day.\n   **Answer:** Disfruto comiendo una manzana cada d\u00eda.\n\n2. The park is beautiful and full of trees.\n   **Answer:** El parque es hermoso y est\u00e1 lleno de \u00e1rboles.\n\n3. Every day I am in the lovely park.\n   **Answer:** Cada d\u00eda estoy en el hermoso parque.\n\n4. Which park is full of trees?\n   **Answer:** \u00bfCu\u00e1l parque est\u00e1 lleno de \u00e1rboles?"
+    }
+  },
+  "2026-10-23T23:08:17.189524": {
+    "id": "2026-10-23T23:08:17.189524",
+    "timestamp": "2026-10-23T23:08:17.189524",
+    "input": "Yo como una manzana en el parque cada d\u00eda. El parque es muy bonito y hay muchos \u00e1rboles.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones gramaticales\n\n**El texto es gramaticalmente correcto.** \u2713\n\n- \"Yo como una manzana\" - conjugaci\u00f3n correcta del presente\n- \"en el parque cada d\u00eda\" - estructura temporal adecuada\n- Puntuaci\u00f3n y acentuaci\u00f3n apropiadas\n\n---\n\n## 2. Sugerencias de vocabulario\n\n| Palabra actual | Alternativas | Observaci\u00f3n |\n|---|---|---|\n| **bonito** | hermoso, agradable, encantador | \"Bonito\" es correcto, pero estas opciones son m\u00e1s expresivas |\n| **hay** | se encuentra, existe | Podr\u00eda variar para evitar repetici\u00f3n |\n| **\u00e1rboles** | arboleda, vegetaci\u00f3n, frondosidad | El t\u00e9rmino actual es adecuado; las alternativas son m\u00e1s literarias |\n\n---\n\n## 3. Mejoras de estilo y redacci\u00f3n\n\n**Versi\u00f3n mejorada:**\n\n> \"Cada d\u00eda como una manzana en el parque, un lugar hermoso lleno de \u00e1rboles frondosos.\"\n\n**O una opci\u00f3n m\u00e1s elaborada:**\n\n> \"Todos los d\u00edas disfruto de una manzana en el parque, mientras admiro sus hermosos \u00e1rboles y el ambiente tranquilo del lugar.\"\n\n### Razones de las mejoras:\n- \u2713 Comienza con \"cada d\u00eda\" para dar contexto temporal\n- \u2713 Evita la repetici\u00f3n de estructuras simples\n- \u2713 A\u00f1ade m\u00e1s descripci\u00f3n y conexi\u00f3n entre ideas\n- \u2713 Tono m\u00e1s natural y fluido\n\n**Nivel del texto actual:** A2 (elemental alto)",
+      "reading_exercise": {
+        "text": "Cada d\u00eda como una manzana en el parque, un lugar hermoso lleno de \u00e1rboles frondosos.",
+        "words": [
+          {
+            "word": "Cada",
+            "definition": "Each, every",
+            "tense": "Determiner",
+            "unconjugated": "cada"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day",
+            "tense": "Noun (masculine)",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "como",
+            "definition": "I eat",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "comer"
+          },
+          {
+            "word": "una",
+            "definition": "A, an (feminine)",
+            "tense": "Indefinite article (feminine)",
+            "unconjugated": "una"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun (feminine)",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "en",
+            "definition": "In, at",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine)",
+            "tense": "Definite article (masculine)",
+            "unconjugated": "el"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun (masculine)",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "un",
+            "definition": "A, an (masculine)",
+            "tense": "Indefinite article (masculine)",
+            "unconjugated": "un"
+          },
+          {
+            "word": "lugar",
+            "definition": "Place, location",
+            "tense": "Noun (masculine)",
+            "unconjugated": "lugar"
+          },
+          {
+            "word": "hermoso",
+            "definition": "Beautiful, lovely",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "hermoso"
+          },
+          {
+            "word": "lleno",
+            "definition": "Full, filled",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "lleno"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun (masculine plural)",
+            "unconjugated": "\u00e1rbol"
+          },
+          {
+            "word": "frondosos",
+            "definition": "Leafy, verdant",
+            "tense": "Adjective (masculine plural)",
+            "unconjugated": "frondoso"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 come la persona cada d\u00eda?\n2. \u00bfD\u00f3nde come la manzana?\n3. \u00bfC\u00f3mo es el parque?\n4. \u00bfQu\u00e9 hay en el parque?\n\n**Answers:**\n1. Come una manzana cada d\u00eda.\n2. Come en el parque.\n3. Es un lugar hermoso lleno de \u00e1rboles frondosos.\n4. Hay \u00e1rboles frondosos.\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences\n**Instructions:** Complete the sentences with the correct words from the word bank.\n\n**Word Bank:** cada, manzana, parque, hermoso, lleno, \u00e1rboles\n\n1. _______ d\u00eda como una _______ en el parque.\n2. El _______ es un lugar _______.\n3. El parque est\u00e1 _______ de _______ frondosos.\n\n**Answers:**\n1. Cada, manzana\n2. parque, hermoso\n3. lleno, \u00e1rboles\n\n---\n\n## Exercise 3: Vocabulary Matching\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. frondosos | a. The (masculine) |\n| 2. lugar | b. Leafy, verdant |\n| 3. el | c. Full, filled |\n| 4. lleno | d. Place, location |\n| 5. manzana | e. Apple |\n\n**Answers:** 1-b, 2-d, 3-a, 4-c, 5-e\n\n---\n\n## Exercise 4: Grammar Practice\n**Instructions:** Complete the sentences using correct articles and conjugations.\n\n1. _______ (un/una) manzana es roja.\n2. Yo _______ (comer - presente) en el parque.\n3. El parque tiene muchos _______ (\u00e1rbol - plural).\n4. Es _______ (hermoso/hermosa) lugar.\n5. _______ (cada/todos) d\u00eda es diferente.\n\n**Answers:**\n1. Una\n2. como\n3. \u00e1rboles\n4. un hermoso\n5. Cada\n\n---\n\n## Exercise 5: Translation Exercises\n**Instructions:** Translate the following sentences from English to Spanish.\n\n1. I eat an apple every day.\n   > **Answer:** Cada d\u00eda como una manzana.\n\n2. The park is a beautiful place.\n   > **Answer:** El parque es un lugar hermoso.\n\n3. It is full of leafy trees.\n   > **Answer:** Est\u00e1 lleno de \u00e1rboles frondosos.\n\n4. Each day I eat in the park.\n   > **Answer:** Cada d\u00eda como en el parque.\n\n5. The park is full of trees.\n   > **Answer:** El parque est\u00e1 lleno de \u00e1rboles."
+    }
+  },
+  "2026-10-23T23:15:27.647478": {
+    "id": "2026-10-23T23:15:27.647478",
+    "timestamp": "2026-10-23T23:15:27.647478",
+    "input": "como una manzana cada dia en el parque",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones gramaticales\n\n**Errores identificados:**\n\n- **Falta de may\u00fascula inicial:** \"como\" deber\u00eda ser \"Como\" (inicio de oraci\u00f3n)\n- **Acento faltante:** \"d\u00eda\" requiere acento ortogr\u00e1fico (no \"dia\")\n- **Falta de tildes:** \"parque\" est\u00e1 correcto, pero verifica acentuaci\u00f3n general\n\n**Versi\u00f3n corregida:**\n> Como una manzana cada d\u00eda en el parque.\n\n---\n\n## 2. Sugerencias de vocabulario\n\nEl vocabulario es simple pero apropiado. Algunas alternativas:\n\n| Palabra actual | Alternativas |\n|---|---|\n| como | consumo, ingiero, devoro |\n| manzana | manzana roja/verde (m\u00e1s descriptivo) |\n| cada d\u00eda | diariamente, todos los d\u00edas, a diario |\n\n**Ejemplos mejorados:**\n- \"Consumo una manzana cada d\u00eda en el parque\"\n- \"Ingiero una manzana diariamente en el parque\"\n\n---\n\n## 3. Mejoras de estilo\n\n**Problemas actuales:**\n- Oraci\u00f3n muy b\u00e1sica y poco descriptiva\n- Falta de contexto o intenci\u00f3n comunicativa\n\n**Sugerencias para enriquecer:**\n- \"Cada d\u00eda como una manzana fresca en el parque cercano\"\n- \"Regularmente disfruto de una manzana mientras paseo por el parque\"\n- \"Es mi costumbre comer una manzana diaria en el parque\"\n\n---\n\n**Conclusi\u00f3n:** La oraci\u00f3n necesita correcciones ortogr\u00e1ficas b\u00e1sicas y podr\u00eda ganar en detalle y naturalidad descriptiva.",
+      "reading_exercise": {
+        "text": "Cada d\u00eda como una manzana fresca en el parque cercano.",
+        "words": [
+          {
+            "word": "Cada",
+            "definition": "Every, each",
+            "tense": "Determiner/Adjective",
+            "unconjugated": "cada"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day",
+            "tense": "Noun (masculine)",
+            "unconjugated": "d\u00eda"
+          },
+          {
+            "word": "como",
+            "definition": "I eat",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "comer"
+          },
+          {
+            "word": "una",
+            "definition": "A, one (feminine)",
+            "tense": "Indefinite article",
+            "unconjugated": "una"
+          },
+          {
+            "word": "manzana",
+            "definition": "Apple",
+            "tense": "Noun (feminine)",
+            "unconjugated": "manzana"
+          },
+          {
+            "word": "fresca",
+            "definition": "Fresh (feminine)",
+            "tense": "Adjective (feminine singular)",
+            "unconjugated": "fresco"
+          },
+          {
+            "word": "en",
+            "definition": "In, at",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "el",
+            "definition": "The (masculine)",
+            "tense": "Definite article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "parque",
+            "definition": "Park",
+            "tense": "Noun (masculine)",
+            "unconjugated": "parque"
+          },
+          {
+            "word": "cercano",
+            "definition": "Nearby, close",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "cercano"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 come cada d\u00eda?\n2. \u00bfD\u00f3nde come la manzana?\n3. \u00bfC\u00f3mo es la manzana?\n4. \u00bfEl parque es cercano o lejos?\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Fill in the missing words from the word bank.\n\n**Word Bank:** cada, manzana, parque, fresca, como\n\n1. __________ d\u00eda como una fruta.\n2. Yo __________ una manzana en el parque.\n3. La __________ es muy fresca y deliciosa.\n4. El __________ cercano es muy bonito.\n5. Me gusta comer una manzana __________ y jugosa.\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejar Vocabulario)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. cada | A. Park |\n| 2. manzana | B. Fresh |\n| 3. parque | C. Day |\n| 4. fresca | D. Every, each |\n| 5. d\u00eda | E. Apple |\n| 6. cercano | F. Nearby |\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica de Gram\u00e1tica)\n\n**Instructions:** Conjugate the verb \"comer\" (to eat) in the present indicative tense for each subject pronoun.\n\n1. Yo __________ (comer)\n2. T\u00fa __________ (comer)\n3. \u00c9l/Ella/Usted __________ (comer)\n4. Nosotros/as __________ (comer)\n5. Vosotros/as __________ (comer)\n6. Ellos/Ellas/Ustedes __________ (comer)\n\n**Bonus:** Write a sentence using each conjugation.\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following sentences from Spanish to English.\n\n1. Cada d\u00eda como una manzana fresca.\n   - _________________________________\n\n2. El parque cercano es muy bonito.\n   - _________________________________\n\n3. Me gusta comer en el parque.\n   - _________________________________\n\n**Instructions:** Translate the following sentences from English to Spanish.\n\n4. I eat a fresh apple every day.\n   - _________________________________\n\n5. The nearby park is beautiful.\n   - _________________________________\n\n---\n\n### Answer Key Available Upon Request"
+    }
+  },
+  "2026-10-23T23:23:26.188416": {
+    "id": "2026-10-23T23:23:26.188416",
+    "timestamp": "2026-10-23T23:23:26.188416",
+    "input": "Dentro de tres a\u00f1os, quiero visitar Espa\u00f1a. Ir\u00e9 para ver la architectura de gaudi.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto\n\n## 1. Correcciones gramaticales\n\n**Error encontrado:**\n- \"architectura\" \u2192 **\"arquitectura\"** (se escribe con \"q\", no con \"ch\")\n\n**Texto corregido:**\n\"Dentro de tres a\u00f1os, quiero visitar Espa\u00f1a. Ir\u00e9 para ver la arquitectura de Gaud\u00ed.\"\n\n---\n\n## 2. Sugerencias de vocabulario\n\n| Palabra original | Alternativas | Observaci\u00f3n |\n|---|---|---|\n| \"para ver\" | \"a ver\", \"con el fin de admirar\" | \"para ver\" es correcto, pero \"a ver\" es m\u00e1s natural en espa\u00f1ol |\n| \"architectura\" | \"arquitectura\", \"obra arquitect\u00f3nica\" | La segunda opci\u00f3n es m\u00e1s espec\u00edfica |\n\n**Sugerencia:** \"Ir\u00e9 a ver la arquitectura de Gaud\u00ed\" suena m\u00e1s natural.\n\n---\n\n## 3. Mejoras de estilo\n\n**Versi\u00f3n mejorada:**\n> \"Dentro de tres a\u00f1os, quiero visitar Espa\u00f1a para admirar la arquitectura de Gaud\u00ed.\"\n\n**Razones:**\n- **\"admirar\"** en lugar de \"ver\" es m\u00e1s expresivo y transmite mayor entusiasmo\n- Eliminar la segunda oraci\u00f3n y unirla en una sola mejora la fluidez\n- Agregar may\u00fascula a \"**Gaud\u00ed**\" (es un nombre propio)\n\n---\n\n## Resumen\nTu texto est\u00e1 muy bien. Solo necesitas corregir la ortograf\u00eda de \"arquitectura\" y considerar hacer la redacci\u00f3n un poco m\u00e1s fluida. \u00a1Buen trabajo!",
+      "reading_exercise": {
+        "text": "Dentro de tres a\u00f1os, quiero visitar Espa\u00f1a para admirar la arquitectura de Gaud\u00ed.",
+        "words": [
+          {
+            "word": "Dentro",
+            "definition": "Inside, within (a period of time)",
+            "tense": "Preposition",
+            "unconjugated": "dentro"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "tres",
+            "definition": "Three",
+            "tense": "Number",
+            "unconjugated": "tres"
+          },
+          {
+            "word": "a\u00f1os",
+            "definition": "Years",
+            "tense": "Noun (plural)",
+            "unconjugated": "a\u00f1o"
+          },
+          {
+            "word": "quiero",
+            "definition": "I want",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "querer"
+          },
+          {
+            "word": "visitar",
+            "definition": "To visit",
+            "tense": "Infinitive",
+            "unconjugated": "visitar"
+          },
+          {
+            "word": "Espa\u00f1a",
+            "definition": "Spain",
+            "tense": "Proper noun",
+            "unconjugated": "Espa\u00f1a"
+          },
+          {
+            "word": "para",
+            "definition": "For, in order to",
+            "tense": "Preposition",
+            "unconjugated": "para"
+          },
+          {
+            "word": "admirar",
+            "definition": "To admire",
+            "tense": "Infinitive",
+            "unconjugated": "admirar"
+          },
+          {
+            "word": "la",
+            "definition": "The (feminine singular)",
+            "tense": "Definite article",
+            "unconjugated": "la"
+          },
+          {
+            "word": "arquitectura",
+            "definition": "Architecture",
+            "tense": "Noun (feminine singular)",
+            "unconjugated": "arquitectura"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "Gaud\u00ed",
+            "definition": "Gaud\u00ed (renowned Catalan architect)",
+            "tense": "Proper noun",
+            "unconjugated": "Gaud\u00ed"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfCu\u00e1ndo quiere visitar Espa\u00f1a la persona?\n2. \u00bfQu\u00e9 quiere admirar en Espa\u00f1a?\n3. \u00bfQui\u00e9n es Gaud\u00ed?\n\n**Possible Answers:**\n1. Dentro de tres a\u00f1os.\n2. La arquitectura de Gaud\u00ed.\n3. Un arquitecto catal\u00e1n famoso / Un arquitecto espa\u00f1ol reconocido.\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa los Espacios en Blanco)\n\n**Instructions:** Complete the sentences with the correct words from the box.\n\n**Word Bank:** dentro de \u2022 para \u2022 quiero \u2022 arquitectura \u2022 Espa\u00f1a\n\n1. _____ tres a\u00f1os, voy a viajar.\n2. Me gusta la _____ moderna.\n3. Yo _____ visitar Barcelona.\n4. Voy a _____ admirar los edificios de Gaud\u00ed.\n5. La _____ es un pa\u00eds europeo hermoso.\n\n**Answers:**\n1. Dentro de\n2. arquitectura\n3. quiero\n4. para\n5. Espa\u00f1a\n\n---\n\n## Exercise 3: Vocabulary Matching (Vocabulario - Emparejar)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. a\u00f1os | a. To visit |\n| 2. visitar | b. To admire |\n| 3. admirar | c. Years |\n| 4. arquitectura | d. Architecture |\n| 5. dentro de | e. Within (a period of time) |\n\n**Answers:** 1-c, 2-a, 3-b, 4-d, 5-e\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Identify the verb tense and person for each highlighted verb.\n\n1. **Quiero** visitar Espa\u00f1a.\n   - Tense: _________ Person: _________\n\n2. Dentro de tres a\u00f1os, voy a visitar Espa\u00f1a **para admirar** la arquitectura.\n   - Tense: _________ Person: _________\n\n**Challenge:** Conjugate \"querer\" in present indicative for all persons:\n- Yo: _________\n- T\u00fa: _________\n- \u00c9l/Ella/Usted: _________\n- Nosotros: _________\n- Vosotros: _________\n- Ellos/Ellas/Ustedes: _________\n\n**Answers:**\n1. Present Indicative, 1st person singular\n2. Infinitive (part of future construction)\n\n**Conjugation:** quiero, quieres, quiere, queremos, quer\u00e9is, quieren\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions A:** Translate the following sentences from English to Spanish.\n\n1. I want to visit Spain in three years.\n   ___________________________________________\n\n2. She admires Gaud\u00ed's architecture.\n   ___________________________________________\n\n3. We want to travel to Spain to see the beautiful buildings.\n   ___________________________________________\n\n**Instructions B:** Translate from Spanish to English.\n\n4. Dentro de tres a\u00f1os, quiero admirar la arquitectura de Gaud\u00ed.\n   ___________________________________________\n\n5. Para visitar Espa\u00f1a, necesito ahorrar dinero.\n   ___________________________________________\n\n**Possible Answers A:**\n1. Quiero visitar Espa\u00f1a dentro de tres a\u00f1os.\n2. Ella admira la arquitectura de Gaud\u00ed.\n3. Queremos viajar a Espa\u00f1a para ver los edificios hermosos.\n\n**Possible Answers B:**\n4. Within three years, I want to admire Gaud\u00ed's architecture.\n5. To visit Spain, I need to save money."
+    }
+  },
+  "2026-10-23T23:24:48.044453": {
+    "id": "2026-10-23T23:24:48.044453",
+    "timestamp": "2026-10-23T23:24:48.044453",
+    "input": "Dentro de tres a\u00f1os, quiero visitar Espa\u00f1a. Ir\u00e9 para ver la architectura de gaudi.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto\n\n## 1. Correcciones gramaticales \u2713\nEl texto es **gramaticalmente correcto**. La estructura de ambas oraciones es adecuada:\n- \"Dentro de tres a\u00f1os\" (expresi\u00f3n temporal correcta)\n- Conjugaci\u00f3n verbal correcta: \"quiero visitar\" e \"ir\u00e9\"\n\n## 2. Correcciones de vocabulario\n\n**Error identificado:**\n- **\"architectura\"** \u2192 debe ser **\"arquitectura\"** (se escribe con \"q\", no con \"ch\")\n\n**Mejoras sugeridas:**\n- **\"gaudi\"** \u2192 **\"Gaud\u00ed\"** (nombre propio, requiere acento y may\u00fascula inicial)\n- Considera especificar: **\"la arquitectura de Gaud\u00ed\"** est\u00e1 bien, pero podr\u00edas enriquecer con ejemplos: *\"la arquitectura modernista de Gaud\u00ed\"*\n\n## 3. Mejoras de estilo\n\n**Versi\u00f3n mejorada:**\n\n> Dentro de tres a\u00f1os, quiero visitar Espa\u00f1a para admirar la arquitectura modernista de Gaud\u00ed.\n\n**Cambios realizados:**\n- Elimin\u00e9 la repetici\u00f3n de sujeto (\"quiero... Ir\u00e9\") combinando las oraciones\n- Cambi\u00e9 \"ver\" por \"admirar\" (verbo m\u00e1s expresivo y literario)\n- Reordenic\u00e9 la oraci\u00f3n de forma m\u00e1s natural\n- Agregu\u00e9 \"modernista\" para contexto hist\u00f3rico-art\u00edstico\n\n---\n\n**Nivel general:** Muy bueno. Solo necesitaba la correcci\u00f3n ortogr\u00e1fica. \ud83d\udc4d",
+      "reading_exercise": {
+        "text": "Dentro de tres a\u00f1os, quiero visitar Espa\u00f1a para admirar la arquitectura modernista de Gaud\u00ed.",
+        "words": [
+          {
+            "word": "Dentro de",
+            "definition": "Within; in the space of",
+            "tense": "Preposition + preposition",
+            "unconjugated": "dentro de"
+          },
+          {
+            "word": "tres",
+            "definition": "Three",
+            "tense": "Cardinal number",
+            "unconjugated": "tres"
+          },
+          {
+            "word": "a\u00f1os",
+            "definition": "Years",
+            "tense": "Noun (plural)",
+            "unconjugated": "a\u00f1o"
+          },
+          {
+            "word": "quiero",
+            "definition": "I want; I wish",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "querer"
+          },
+          {
+            "word": "visitar",
+            "definition": "To visit",
+            "tense": "Infinitive",
+            "unconjugated": "visitar"
+          },
+          {
+            "word": "Espa\u00f1a",
+            "definition": "Spain",
+            "tense": "Proper noun",
+            "unconjugated": "Espa\u00f1a"
+          },
+          {
+            "word": "para",
+            "definition": "In order to; for the purpose of",
+            "tense": "Preposition",
+            "unconjugated": "para"
+          },
+          {
+            "word": "admirar",
+            "definition": "To admire",
+            "tense": "Infinitive",
+            "unconjugated": "admirar"
+          },
+          {
+            "word": "la",
+            "definition": "The (feminine singular)",
+            "tense": "Definite article",
+            "unconjugated": "la"
+          },
+          {
+            "word": "arquitectura",
+            "definition": "Architecture",
+            "tense": "Noun (singular, feminine)",
+            "unconjugated": "arquitectura"
+          },
+          {
+            "word": "modernista",
+            "definition": "Modernist; Art Nouveau style",
+            "tense": "Adjective (singular)",
+            "unconjugated": "modernista"
+          },
+          {
+            "word": "de",
+            "definition": "Of; from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "Gaud\u00ed",
+            "definition": "Gaud\u00ed (Catalan architect, 1852-1926)",
+            "tense": "Proper noun",
+            "unconjugated": "Gaud\u00ed"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfCu\u00e1nto tiempo tiene que esperar antes de visitar Espa\u00f1a?\n2. \u00bfQui\u00e9n es Gaud\u00ed?\n3. \u00bfCu\u00e1l es el prop\u00f3sito principal del viaje?\n4. \u00bfQu\u00e9 tipo de arquitectura quiere admirar?\n\n**Answer Key:**\n1. Dentro de tres a\u00f1os\n2. Un arquitecto catal\u00e1n/Un arquitecto modernista\n3. Admirar la arquitectura modernista de Gaud\u00ed\n4. Arquitectura modernista (o arquitectura de Gaud\u00ed)\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Fill in the blanks with the correct words from the word bank.\n\n**Word Bank:** dentro de, quiero, para, admirar, Espa\u00f1a, a\u00f1os\n\n1. _______ tres _______, voy a visitar un pa\u00eds muy bonito.\n2. Me gustar\u00eda visitar _______ _______ ver la arquitectura de Gaud\u00ed.\n3. _______ visitar _______ en el futuro.\n4. La arquitectura modernista es interesante _______ apreciar.\n\n**Answer Key:**\n1. Dentro de, a\u00f1os\n2. Espa\u00f1a, para\n3. Quiero, Espa\u00f1a\n4. para\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejar Vocabulario)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. arquitectura | A. To visit |\n| 2. admirar | B. Within; in the space of |\n| 3. visitar | C. Architecture |\n| 4. dentro de | D. To admire |\n| 5. modernista | E. Art Nouveau style |\n\n**Answer Key:**\n1. C, 2. D, 3. A, 4. B, 5. E\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Conjugate the verb in parentheses and complete the sentences.\n\n1. Yo _______ (querer) visitar Espa\u00f1a dentro de tres a\u00f1os.\n2. Mi hermano _______ (admirar) la arquitectura de Gaud\u00ed tambi\u00e9n.\n3. Nosotros _______ (visitar) Barcelona el pr\u00f3ximo verano.\n4. Ellos _______ (querer) aprender sobre el modernismo.\n\n**Bonus:** Identify which tense is used in the original text.\n\n**Answer Key:**\n1. quiero (Present indicative)\n2. admira (Present indicative)\n3. visitaremos (Future tense)\n4. quieren (Present indicative)\n\n**Bonus Answer:** Present indicative and infinitive\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following phrases from English to Spanish using vocabulary from the text.\n\n1. Within three years \u2192 _______\n2. I want to visit \u2192 _______\n3. In order to admire \u2192 _______\n4. The modernist architecture \u2192 _______\n5. Spain \u2192 _______\n\n**Challenge:** Translate the entire sentence: \"Within three years, I want to visit Spain to admire Gaud\u00ed's modernist architecture.\"\n\n**Answer Key:**\n1. Dentro de tres a\u00f1os\n2. Quiero visitar\n3. Para admirar\n4. La arquitectura modernista\n5. Espa\u00f1a\n\n**Challenge Answer:** Dentro de tres a\u00f1os, quiero visitar Espa\u00f1a para admirar la arquitectura modernista de Gaud\u00ed."
+    }
+  },
+  "2026-10-23T23:28:02.160980": {
+    "id": "2026-10-23T23:28:02.160980",
+    "timestamp": "2026-10-23T23:28:02.160980",
+    "input": "Dentro de tres a\u00f1os quiero visitar Espa\u00f1a. Ire para ver la architectura de Gaudi.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones gramaticales\n\n**Error encontrado:**\n- \"Ire\" \u2192 debe ser \"Ir\u00e9\" (con acento en la \u00faltima s\u00edlaba)\n  - El verbo \"ir\" en futuro simple requiere tilde diacr\u00edtica\n\n**Texto corregido:**\n\"Dentro de tres a\u00f1os quiero visitar Espa\u00f1a. Ir\u00e9 para ver la arquitectura de Gaud\u00ed.\"\n\n## 2. Sugerencias de vocabulario\n\n**Error de ortograf\u00eda:**\n- \"architectura\" \u2192 \"arquitectura\" (palabra de origen griego)\n- \"Gaudi\" \u2192 \"Gaud\u00ed\" (el apellido lleva acento)\n\n**Mejoras opcionales:**\n- \"para ver\" \u2192 \"para admirar\" o \"para contemplar\" (m\u00e1s expresivo y literario)\n- \"la arquitectura de Gaud\u00ed\" \u2192 \"las obras arquitect\u00f3nicas de Gaud\u00ed\" (m\u00e1s variado)\n\n## 3. Mejoras de estilo\n\n**Versi\u00f3n mejorada:**\n> \"Dentro de tres a\u00f1os quiero visitar Espa\u00f1a. Ir\u00e9 para admirar la arquitectura modernista de Gaud\u00ed.\"\n\n**O con m\u00e1s detalle:**\n> \"Dentro de tres a\u00f1os tengo planeado visitar Espa\u00f1a para admirar las espectaculares obras arquitect\u00f3nicas de Antoni Gaud\u00ed.\"\n\n**Cambios sugeridos:**\n- Agregar contexto (ej: \"modernista\")\n- Variar la estructura para evitar repetici\u00f3n del sujeto\n- Usar verbos m\u00e1s descriptivos",
+      "reading_exercise": {
+        "text": "Dentro de tres a\u00f1os quiero visitar Espa\u00f1a. Ir\u00e9 para admirar la arquitectura modernista de Gaud\u00ed.",
+        "words": [
+          {
+            "word": "Dentro",
+            "definition": "Inside; within (a time period)",
+            "tense": "Preposition",
+            "unconjugated": "dentro"
+          },
+          {
+            "word": "de",
+            "definition": "Of; from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "tres",
+            "definition": "Three",
+            "tense": "Number",
+            "unconjugated": "tres"
+          },
+          {
+            "word": "a\u00f1os",
+            "definition": "Years",
+            "tense": "Noun (plural)",
+            "unconjugated": "a\u00f1o"
+          },
+          {
+            "word": "quiero",
+            "definition": "I want",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "querer"
+          },
+          {
+            "word": "visitar",
+            "definition": "To visit",
+            "tense": "Infinitive",
+            "unconjugated": "visitar"
+          },
+          {
+            "word": "Espa\u00f1a",
+            "definition": "Spain",
+            "tense": "Proper noun",
+            "unconjugated": "Espa\u00f1a"
+          },
+          {
+            "word": "Ir\u00e9",
+            "definition": "I will go",
+            "tense": "Future indicative, 1st person singular",
+            "unconjugated": "ir"
+          },
+          {
+            "word": "para",
+            "definition": "In order to; for",
+            "tense": "Preposition",
+            "unconjugated": "para"
+          },
+          {
+            "word": "admirar",
+            "definition": "To admire",
+            "tense": "Infinitive",
+            "unconjugated": "admirar"
+          },
+          {
+            "word": "la",
+            "definition": "The (feminine singular)",
+            "tense": "Definite article",
+            "unconjugated": "la"
+          },
+          {
+            "word": "arquitectura",
+            "definition": "Architecture",
+            "tense": "Noun (feminine singular)",
+            "unconjugated": "arquitectura"
+          },
+          {
+            "word": "modernista",
+            "definition": "Modernist; Art Nouveau style",
+            "tense": "Adjective",
+            "unconjugated": "modernista"
+          },
+          {
+            "word": "de",
+            "definition": "Of; from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "Gaud\u00ed",
+            "definition": "Gaud\u00ed (famous Catalan architect)",
+            "tense": "Proper noun",
+            "unconjugated": "Gaud\u00ed"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfCu\u00e1ndo quiere visitar Espa\u00f1a?\n2. \u00bfCu\u00e1l es la raz\u00f3n principal del viaje?\n3. \u00bfQui\u00e9n es Gaud\u00ed?\n4. \u00bfQu\u00e9 tipo de arquitectura admira el autor?\n\n**Possible Answers:**\n1. Dentro de tres a\u00f1os\n2. Para admirar la arquitectura modernista de Gaud\u00ed\n3. Un arquitecto catal\u00e1n famoso\n4. La arquitectura modernista (Art Nouveau)\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Complete the sentences with the correct word from the text.\n\n1. _______ de tres a\u00f1os quiero visitar Espa\u00f1a.\n2. Ir\u00e9 _______ admirar la arquitectura modernista.\n3. La _______ de Gaud\u00ed es muy famosa.\n4. Yo _______ visitar Espa\u00f1a pronto.\n5. _______ es un pa\u00eds en Europa.\n\n**Answer Key:**\n1. Dentro\n2. para\n3. arquitectura\n4. quiero\n5. Espa\u00f1a\n\n---\n\n## Exercise 3: Vocabulary Matching (Empareja el Vocabulario)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. quiero | a. To admire |\n| 2. admirar | b. I will go |\n| 3. Ir\u00e9 | c. Architecture |\n| 4. arquitectura | d. I want |\n| 5. modernista | e. Within; in (time) |\n| 6. Dentro | f. Art Nouveau style |\n\n**Answer Key:**\n1. d | 2. a | 3. b | 4. c | 5. f | 6. e\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Identify the tense and person for each verb, then use it in a new sentence.\n\n**Example:** quiero \u2192 Present indicative, 1st person singular\n*New sentence: Quiero aprender espa\u00f1ol.*\n\n1. **Ir\u00e9** (tense: _________, person: _________)\n   - New sentence: _________________________________\n\n2. **quiero** (tense: _________, person: _________)\n   - New sentence: _________________________________\n\n3. **visitar** (tense: _________, person: _________)\n   - New sentence: _________________________________\n\n**Suggested Answers:**\n1. Future indicative, 1st person singular | Ir\u00e9 al cine ma\u00f1ana.\n2. Present indicative, 1st person singular | Quiero un caf\u00e9.\n3. Infinitive | Me encanta visitar museos.\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following English sentences into Spanish using vocabulary from the text.\n\n1. I want to visit Spain within three years.\n   - _________________________________\n\n2. I will go to admire modernist architecture.\n   - _________________________________\n\n3. Gaud\u00ed's architecture is amazing.\n   - _________________________________\n\n4. Within two years, I want to travel.\n   - _________________________________\n\n5. In order to understand art, I will visit museums.\n   - _________________________________\n\n**Answer Key:**\n1. Quiero visitar Espa\u00f1a dentro de tres a\u00f1os.\n2. Ir\u00e9 para admirar la arquitectura modernista.\n3. La arquitectura de Gaud\u00ed es incre\u00edble/asombrosa.\n4. Dentro de dos a\u00f1os, quiero viajar.\n5. Para entender el arte, ir\u00e9 a museos. / Ir\u00e9 a museos para entender el arte."
+    }
+  },
+  "2026-10-23T23:32:37.390648": {
+    "id": "2026-10-23T23:32:37.390648",
+    "timestamp": "2026-10-23T23:32:37.390648",
+    "input": "Dentro de tres a\u00f1os quiero visitar Espa\u00f1a. Ire para ver la architectura de Gaudi.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. **Correcciones gramaticales**\n\n| Error | Correcci\u00f3n | Explicaci\u00f3n |\n|-------|-----------|-------------|\n| \"Ire\" | \"Ir\u00e9\" | Le falta el acento en la primera persona del futuro simple. |\n\n**Texto corregido:** \"Dentro de tres a\u00f1os quiero visitar Espa\u00f1a. **Ir\u00e9** para ver la arquitectura de Gaud\u00ed.\"\n\n---\n\n## 2. **Sugerencias de vocabulario**\n\n| Palabra actual | Alternativas | Observaci\u00f3n |\n|---|---|---|\n| \"para ver\" | \"para admirar\" / \"a fin de contemplar\" | M\u00e1s variado y expresivo |\n| \"architectura\" | \"arquitectura\" | Error de ortograf\u00eda (falta la 'c' inicial) |\n\n---\n\n## 3. **Mejoras de estilo y redacci\u00f3n**\n\n**Versi\u00f3n mejorada:**\n\n> *Dentro de tres a\u00f1os quiero visitar Espa\u00f1a para admirar la arquitectura de Gaud\u00ed.*\n\n**O con m\u00e1s elaboraci\u00f3n:**\n\n> *Dentro de tres a\u00f1os tengo la intenci\u00f3n de visitar Espa\u00f1a, donde podr\u00e9 contemplar la extraordinaria arquitectura de Gaud\u00ed.*\n\n**Cambios sugeridos:**\n- Combinar las dos oraciones en una estructura m\u00e1s fluida\n- Reemplazar \"para ver\" por un verbo m\u00e1s descriptivo\n- A\u00f1adir detalles (opcional) para enriquecer la expresi\u00f3n\n\n---\n\n## **Resumen**\nEl texto es claro, pero tiene un error de acentuaci\u00f3n y uno de ortograf\u00eda. Con estas peque\u00f1as correcciones, la expresi\u00f3n ser\u00e1 m\u00e1s pulida. \u2713",
+      "reading_exercise": {
+        "text": "Dentro de tres a\u00f1os quiero visitar Espa\u00f1a para admirar la arquitectura de Gaud\u00ed.",
+        "words": [
+          {
+            "word": "Dentro",
+            "definition": "Within, inside, in the space of",
+            "tense": "Preposition",
+            "unconjugated": "dentro"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "tres",
+            "definition": "Three",
+            "tense": "Number",
+            "unconjugated": "tres"
+          },
+          {
+            "word": "a\u00f1os",
+            "definition": "Years",
+            "tense": "Noun (plural)",
+            "unconjugated": "a\u00f1o"
+          },
+          {
+            "word": "quiero",
+            "definition": "I want, I desire",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "querer"
+          },
+          {
+            "word": "visitar",
+            "definition": "To visit",
+            "tense": "Infinitive",
+            "unconjugated": "visitar"
+          },
+          {
+            "word": "Espa\u00f1a",
+            "definition": "Spain",
+            "tense": "Proper noun",
+            "unconjugated": "Espa\u00f1a"
+          },
+          {
+            "word": "para",
+            "definition": "For, in order to",
+            "tense": "Preposition",
+            "unconjugated": "para"
+          },
+          {
+            "word": "admirar",
+            "definition": "To admire",
+            "tense": "Infinitive",
+            "unconjugated": "admirar"
+          },
+          {
+            "word": "la",
+            "definition": "The (feminine singular)",
+            "tense": "Definite article",
+            "unconjugated": "el/la"
+          },
+          {
+            "word": "arquitectura",
+            "definition": "Architecture",
+            "tense": "Noun (feminine singular)",
+            "unconjugated": "arquitectura"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "Gaud\u00ed",
+            "definition": "Gaud\u00ed (Antoni Gaud\u00ed, famous Catalan architect)",
+            "tense": "Proper noun",
+            "unconjugated": "Gaud\u00ed"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfCu\u00e1ndo quiere visitar Espa\u00f1a?\n2. \u00bfQu\u00e9 arquitecto desea admirar el autor?\n3. \u00bfCu\u00e1l es el prop\u00f3sito del viaje?\n4. \u00bfEn cu\u00e1ntos a\u00f1os planea hacer este viaje?\n\n**Possible Answers:**\n1. Dentro de tres a\u00f1os\n2. Gaud\u00ed (Antoni Gaud\u00ed)\n3. Para admirar la arquitectura de Gaud\u00ed\n4. En tres a\u00f1os\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Fill in the blanks with the correct word from the word bank.\n\n**Word Bank:** dentro, para, quiero, admirar, a\u00f1os, Espa\u00f1a, de, visitar\n\n1. _______ de tres _______ quiero _______ Espa\u00f1a.\n2. Mi objetivo es _______ la arquitectura _______ Gaud\u00ed.\n3. _______ visitar este pa\u00eds famoso, necesito planificar mi viaje.\n4. _______ tres a\u00f1os, ir\u00e9 a _______.\n\n**Answers:**\n1. Dentro / a\u00f1os / visitar\n2. admirar / de\n3. Para\n4. Dentro / Espa\u00f1a\n\n---\n\n## Exercise 3: Vocabulary Matching (Empareja las Palabras)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. arquitectura | A. To visit |\n| 2. admirar | B. Within, in the space of |\n| 3. dentro | C. Architecture |\n| 4. visitar | D. To admire |\n| 5. para | E. For, in order to |\n| 6. a\u00f1os | F. Years |\n\n**Answers:** 1-C, 2-D, 3-B, 4-A, 5-E, 6-F\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Answer the following grammar questions.\n\n1. **Verb Conjugation:** Conjugate \"querer\" in the present indicative for all persons:\n   - Yo _______\n   - T\u00fa _______\n   - \u00c9l/Ella/Usted _______\n   - Nosotros/as _______\n   - Vosotros/as _______\n   - Ellos/Ellas/Ustedes _______\n\n2. **Prepositions:** Identify which preposition completes each sentence:\n   - Voy a Espa\u00f1a _______ (para/de) admirar a Gaud\u00ed.\n   - La arquitectura _______ (de/para) Gaud\u00ed es magn\u00edfica.\n\n3. **Articles:** Why is \"la\" used before \"arquitectura\"? Explain in English or Spanish.\n\n**Answers:**\n1. quiero, quieres, quiere, queremos, quer\u00e9is, quieren\n2. para / de\n3. \"La\" is feminine singular because \"arquitectura\" is a feminine noun\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions A:** Translate the following phrases from Spanish to English.\n\n1. Dentro de tres a\u00f1os \u2192 _______\n2. Quiero visitar Espa\u00f1a \u2192 _______\n3. Admirar la arquitectura \u2192 _______\n4. Para visitar \u2192 _______\n\n**Instructions B:** Translate the following sentences from English to Spanish.\n\n1. I want to visit Spain. \u2192 _______\n2. The architecture of Gaud\u00ed is beautiful. \u2192 _______\n3. Within three years, I will admire this city. \u2192 _______\n4. In order to learn, I study every day. \u2192 _______\n\n**Answers - A:**\n1. Within three years\n2. I want to visit Spain\n3. To admire the architecture\n4. In order to visit\n\n**Answers - B:**\n1. Quiero visitar Espa\u00f1a.\n2. La arquitectura de Gaud\u00ed es hermosa.\n3. Dentro de tres a\u00f1os, admirar\u00e9 esta ciudad.\n4. Para aprender, estudio cada d\u00eda."
+    }
+  },
+  "2026-10-23T23:42:10.816611": {
+    "id": "2026-10-23T23:42:10.816611",
+    "timestamp": "2026-10-23T23:42:10.816611",
+    "input": "Dentro de tres a\u00f1os quiero visitar Espa\u00f1a. Ire para ver la architectura de Gaudi.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones gramaticales\n\n**Errores encontrados:**\n\n- **\"Ire\"** \u2192 Debe ser **\"Ir\u00e9\"** (con tilde en la 'e')\n  - El futuro simple de \"ir\" requiere acento gr\u00e1fico en la primera persona del singular.\n\n- **\"architectura\"** \u2192 Debe ser **\"arquitectura\"** (sin la 'h')\n  - Esta es la ortograf\u00eda correcta en espa\u00f1ol.\n\n---\n\n## 2. Sugerencias de vocabulario\n\nEl vocabulario es adecuado, pero podr\u00edas enriquecerlo:\n\n- **\"ver\"** es correcto, pero podr\u00edas usar sin\u00f3nimos m\u00e1s descriptivos:\n  - \"**admirar**\" (m\u00e1s emotivo)\n  - \"**contemplar**\" (m\u00e1s formal y po\u00e9tico)\n  - \"**apreciar**\" (m\u00e1s anal\u00edtico)\n\n**Ejemplo mejorado:** \"Ir\u00e9 para admirar/contemplar la arquitectura de Gaud\u00ed\"\n\n---\n\n## 3. Mejoras de estilo\n\n**Texto original:**\n> Dentro de tres a\u00f1os quiero visitar Espa\u00f1a. Ir\u00e9 para ver la arquitectura de Gaud\u00ed.\n\n**Sugerencias:**\n- Hay redundancia: ambas oraciones dicen lo mismo. Podr\u00edas combinarlas o expandir la idea.\n\n**Versiones mejoradas:**\n\n1. **M\u00e1s natural:** \n   > \"Dentro de tres a\u00f1os quiero visitar Espa\u00f1a para admirar la arquitectura de Gaud\u00ed.\"\n\n2. **M\u00e1s detallado:**\n   > \"Dentro de tres a\u00f1os deseo visitar Espa\u00f1a, principalmente para contemplar las obras maestras arquitect\u00f3nicas de Gaud\u00ed.\"\n\n3. **Con m\u00e1s contexto:**\n   > \"Mi objetivo es visitar Espa\u00f1a en los pr\u00f3ximos tres a\u00f1os, especialmente para conocer la arquitectura \u00fanica de Gaud\u00ed en Barcelona.\"\n\n---\n\n**Resumen:** El texto es claro, pero necesita correcciones ortogr\u00e1ficas menores y puede ganar en fluidez al evitar la repetici\u00f3n de ideas.",
+      "reading_exercise": {
+        "text": "Dentro de tres a\u00f1os deseo visitar Espa\u00f1a, principalmente para contemplar las obras maestras arquitect\u00f3nicas de Gaud\u00ed.",
+        "words": [
+          {
+            "word": "Dentro",
+            "definition": "Within, inside (in this context: within a time period)",
+            "tense": "Preposition",
+            "unconjugated": "dentro"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "tres",
+            "definition": "Three",
+            "tense": "Number",
+            "unconjugated": "tres"
+          },
+          {
+            "word": "a\u00f1os",
+            "definition": "Years",
+            "tense": "Noun (plural)",
+            "unconjugated": "a\u00f1o"
+          },
+          {
+            "word": "deseo",
+            "definition": "I wish, I desire",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "desear"
+          },
+          {
+            "word": "visitar",
+            "definition": "To visit",
+            "tense": "Infinitive",
+            "unconjugated": "visitar"
+          },
+          {
+            "word": "Espa\u00f1a",
+            "definition": "Spain",
+            "tense": "Proper noun",
+            "unconjugated": "Espa\u00f1a"
+          },
+          {
+            "word": "principalmente",
+            "definition": "Mainly, principally",
+            "tense": "Adverb",
+            "unconjugated": "principalmente"
+          },
+          {
+            "word": "para",
+            "definition": "For, in order to",
+            "tense": "Preposition",
+            "unconjugated": "para"
+          },
+          {
+            "word": "contemplar",
+            "definition": "To contemplate, to gaze upon",
+            "tense": "Infinitive",
+            "unconjugated": "contemplar"
+          },
+          {
+            "word": "las",
+            "definition": "The (feminine plural)",
+            "tense": "Definite article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "obras",
+            "definition": "Works (artistic/literary pieces)",
+            "tense": "Noun (plural)",
+            "unconjugated": "obra"
+          },
+          {
+            "word": "maestras",
+            "definition": "Masterpieces, masterful (feminine plural)",
+            "tense": "Adjective",
+            "unconjugated": "maestra"
+          },
+          {
+            "word": "arquitect\u00f3nicas",
+            "definition": "Architectural (feminine plural)",
+            "tense": "Adjective",
+            "unconjugated": "arquitect\u00f3nico"
+          },
+          {
+            "word": "de",
+            "definition": "Of, from",
+            "tense": "Preposition",
+            "unconjugated": "de"
+          },
+          {
+            "word": "Gaud\u00ed",
+            "definition": "Gaud\u00ed (proper name - famous Catalan architect)",
+            "tense": "Proper noun",
+            "unconjugated": "Gaud\u00ed"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in complete sentences based on the reading.\n\n1. \u00bfCu\u00e1ntos a\u00f1os desea esperar antes de visitar Espa\u00f1a?\n2. \u00bfCu\u00e1l es la raz\u00f3n principal para visitar Espa\u00f1a?\n3. \u00bfQui\u00e9n es el arquitecto mencionado en el texto?\n4. \u00bfQu\u00e9 tipo de obras desea contemplar?\n\n**Answers:**\n1. Desea esperar tres a\u00f1os.\n2. Desea visitar Espa\u00f1a principalmente para contemplar las obras maestras arquitect\u00f3nicas de Gaud\u00ed.\n3. Gaud\u00ed es el arquitecto mencionado.\n4. Desea contemplar obras maestras arquitect\u00f3nicas.\n\n---\n\n## Exercise 2: Fill-in-the-Blank (Completa las Oraciones)\n\n**Instructions:** Complete each sentence with the correct word from the text.\n\n1. ________ de tres a\u00f1os deseo visitar Espa\u00f1a.\n2. Deseo ________ Espa\u00f1a, principalmente para contemplar las obras maestras.\n3. Las obras ________ de Gaud\u00ed son famosas en el mundo.\n4. Dentro de tres ________, espero visitar este pa\u00eds.\n5. Deseo ________ las obras maestras arquitect\u00f3nicas.\n\n**Answers:**\n1. Dentro\n2. visitar\n3. arquitect\u00f3nicas\n4. a\u00f1os\n5. contemplar\n\n---\n\n## Exercise 3: Vocabulary Matching (Empareja las Palabras)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. contemplar | a. Within, inside |\n| 2. dentro | b. To visit |\n| 3. deseo | c. The (feminine plural) |\n| 4. visitar | d. To gaze upon |\n| 5. las | e. I wish, I desire |\n| 6. obras | f. Works (artistic pieces) |\n| 7. para | g. For, in order to |\n\n**Answers:** 1-d, 2-a, 3-e, 4-b, 5-c, 6-f, 7-g\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Conjugate the following verbs in the present indicative (1st person singular) and create sentences.\n\n**Example:** desear \u2192 deseo \u2192 Yo deseo visitar Espa\u00f1a.\n\n1. **visitar** (to visit)\n   - Yo ________ las obras de Gaud\u00ed.\n\n2. **contemplar** (to contemplate)\n   - Yo ________ la arquitectura espa\u00f1ola.\n\n3. **esperar** (to wait/hope)\n   - Yo ________ tres a\u00f1os.\n\n4. **viajar** (to travel)\n   - Yo ________ a Espa\u00f1a pronto.\n\n**Answers:**\n1. visito\n2. contemplo\n3. espero\n4. viajo\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following sentences from English to Spanish.\n\n1. Within three years, I wish to visit Spain.\n\n2. I want to contemplate the architectural masterpieces.\n\n3. Gaud\u00ed's works are masterpieces.\n\n4. The main reason is to see Gaud\u00ed's architecture.\n\n5. I desire to visit Spain principally for this purpose.\n\n**Answers:**\n1. Dentro de tres a\u00f1os, deseo visitar Espa\u00f1a.\n2. Deseo contemplar las obras maestras arquitect\u00f3nicas.\n3. Las obras de Gaud\u00ed son obras maestras.\n4. La raz\u00f3n principal es ver la arquitectura de Gaud\u00ed.\n5. Deseo visitar Espa\u00f1a principalmente para este prop\u00f3sito.\n\n---\n\n## Bonus: Grammar Notes\n\n**Key Structures:**\n- **Dentro de + time period** = \"Within [time period]\"\n- **Deseo + infinitive** = \"I wish/desire to [do something]\"\n- **Para + infinitive** = \"In order to [do something]\"\n- **Feminine plural adjectives** end in -as (maestras, arquitect\u00f3nicas)"
+    }
+  },
+  "2026-10-23T23:45:27.250116": {
+    "id": "2026-10-23T23:45:27.250116",
+    "timestamp": "2026-10-23T23:45:27.250116",
+    "input": "Como una manzana.",
+    "stages": {
+      "analysis": "# An\u00e1lisis de \"Como una manzana\"\n\n## 1. Correcciones gramaticales\n\u2713 **No hay errores gramaticales.** La oraci\u00f3n est\u00e1 correctamente construida.\n\n---\n\n## 2. Sugerencias de vocabulario\n\nEl texto es muy breve, pero aqu\u00ed hay algunas observaciones:\n\n- **\"Como\"** tiene dos significados posibles:\n  - *Comparaci\u00f3n:* \"Roja como una manzana\" (similar a)\n  - *Acci\u00f3n:* \"Como una manzana\" (yo consumo una manzana)\n\nSi es **comparaci\u00f3n**, ser\u00eda m\u00e1s claro con un adjetivo:\n- \"Roja como una manzana\"\n- \"Redonda como una manzana\"\n\nSi es **una acci\u00f3n**, est\u00e1 correcto pero incompleto.\n\n---\n\n## 3. Mejoras en la redacci\u00f3n\n\n**El principal problema es la brevedad y falta de contexto.** Algunos ejemplos mejorados:\n\n- \u2713 \"Es redonda como una manzana\"\n- \u2713 \"Brillante como una manzana reci\u00e9n cosechada\"\n- \u2713 \"Roja como una manzana madura\"\n- \u2713 \"Como una manzana podrida\" (para una comparaci\u00f3n m\u00e1s compleja)\n\n---\n\n## Conclusi\u00f3n\nLa frase necesita **un sujeto y un adjetivo** para tener sentido completo como comparaci\u00f3n, o un **contexto m\u00e1s amplio** si es una frase aislada.",
+      "reading_exercise": {
+        "text": "Es redonda como una manzana.",
+        "words": [
+          {
+            "word": "Es",
+            "definition": "is",
+            "tense": "Present indicative, 3rd person singular",
+            "unconjugated": "ser"
+          },
+          {
+            "word": "redonda",
+            "definition": "round",
+            "tense": "Adjective, feminine singular",
+            "unconjugated": "redondo"
+          },
+          {
+            "word": "como",
+            "definition": "like, as",
+            "tense": "Preposition",
+            "unconjugated": "como"
+          },
+          {
+            "word": "una",
+            "definition": "a, an",
+            "tense": "Indefinite article, feminine singular",
+            "unconjugated": "uno"
+          },
+          {
+            "word": "manzana",
+            "definition": "apple",
+            "tense": "Noun, feminine singular",
+            "unconjugated": "manzana"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises: \"Es redonda como una manzana\"\n\n---\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 forma tiene el objeto?\n2. \u00bfA qu\u00e9 se compara?\n3. \u00bfCu\u00e1l es el art\u00edculo que se usa antes de \"manzana\"?\n\n**Possible Answers:**\n1. Es redonda.\n2. Se compara a una manzana.\n3. El art\u00edculo es \"una\".\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Complete the sentences using words from the text.\n\n1. La pelota _______ redonda _______ una manzana.\n2. _______ manzana es una fruta.\n3. El objeto _______ como una manzana.\n\n**Answers:**\n1. es, como\n2. Una\n3. es\n\n---\n\n## Exercise 3: Vocabulary Matching (Empareja las Palabras)\n\n**Instructions:** Match each Spanish word with its English equivalent.\n\n| Spanish | English |\n|---------|---------|\n| 1. redonda | a. apple |\n| 2. manzana | b. is |\n| 3. es | c. like/as |\n| 4. como | d. round |\n| 5. una | e. a/an |\n\n**Answers:** 1-d, 2-a, 3-b, 4-c, 5-e\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Conjugate the verb \"ser\" and choose the correct adjective agreement.\n\n1. Yo _______ (ser) redond__ (masculine/singular)\n2. Ella _______ (ser) redond__ (feminine/singular)\n3. Nosotros _______ (ser) redond__ (masculine/plural)\n4. Create a similar sentence using \"redonda/o\" with a different object.\n\n**Answers:**\n1. soy, redondo\n2. es, redonda\n3. somos, redondos\n4. *Student answers may vary* (e.g., \"Es redondo como un bal\u00f3n\")\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions A - English to Spanish:** Translate the following phrases.\n\n1. It is round.\n2. like an apple\n3. a round ball\n4. The apple is red.\n\n**Answers:**\n1. Es redonda.\n2. como una manzana\n3. una pelota redonda\n4. La manzana es roja.\n\n**Instructions B - Spanish to English:** Translate to English.\n\n1. Es redonda como una manzana.\n2. Una fruta redonda.\n3. Como una manzana roja.\n\n**Answers:**\n1. It is round like an apple.\n2. A round fruit.\n3. Like a red apple.\n\n---"
+    }
+  },
+  "2026-10-23T23:49:19.249602": {
+    "id": "2026-10-23T23:49:19.249602",
+    "timestamp": "2026-10-23T23:49:19.249602",
+    "input": "Los arboles en la bosque son bonitos",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto: \"Los arboles en la bosque son bonitos\"\n\n## 1. Correcciones gramaticales\n\n**Error encontrado:**\n- \"arboles\" \u2192 debe escribirse \"**\u00e1rboles**\" (con acento)\n- \"la bosque\" \u2192 debe ser \"**el bosque**\" (bosque es masculino, no femenino)\n\n**Texto corregido:**\n*Los \u00e1rboles en el bosque son bonitos*\n\n---\n\n## 2. Sugerencias de vocabulario\n\nEl vocabulario es simple pero correcto. Aqu\u00ed hay alternativas m\u00e1s expresivas:\n\n| Palabra actual | Alternativas |\n|---|---|\n| bonitos | hermosos, bellos, frondosos, majestuosos |\n| arboles | \u00e1rboles frondosos, vegetaci\u00f3n, flora |\n\n---\n\n## 3. Mejoras de estilo\n\n**Versi\u00f3n mejorada:**\n- *Los \u00e1rboles del bosque son hermosos.* (m\u00e1s conciso)\n- *Los \u00e1rboles en el bosque lucen hermosos.* (m\u00e1s descriptivo)\n- *Los frondosos \u00e1rboles del bosque son majestuosos.* (m\u00e1s po\u00e9tico)\n\n**Sugerencia:** Considera usar \"del\" en lugar de \"en el\" para una construcci\u00f3n m\u00e1s natural en espa\u00f1ol.\n\n---\n\n### Resumen\n\u2713 Estructura correcta\n\u2717 Error de g\u00e9nero y acento\n\u2192 Vocabulario b\u00e1sico pero mejorable",
+      "reading_exercise": {
+        "text": "Los \u00e1rboles del bosque son hermosos.",
+        "words": [
+          {
+            "word": "Los",
+            "definition": "The (plural masculine article)",
+            "tense": "Definite article",
+            "unconjugated": "el"
+          },
+          {
+            "word": "\u00e1rboles",
+            "definition": "Trees",
+            "tense": "Noun, plural",
+            "unconjugated": "\u00e1rbol"
+          },
+          {
+            "word": "del",
+            "definition": "Of the / from the (contraction of 'de' + 'el')",
+            "tense": "Preposition + article",
+            "unconjugated": "de"
+          },
+          {
+            "word": "bosque",
+            "definition": "Forest",
+            "tense": "Noun, masculine singular",
+            "unconjugated": "bosque"
+          },
+          {
+            "word": "son",
+            "definition": "Are",
+            "tense": "Present indicative, 3rd person plural",
+            "unconjugated": "ser"
+          },
+          {
+            "word": "hermosos",
+            "definition": "Beautiful / Handsome (plural masculine)",
+            "tense": "Adjective, masculine plural",
+            "unconjugated": "hermoso"
+          }
+        ],
+        "interactive_exercises": [
+          {
+            "type": "fill_blank",
+            "prompt": "Complete: Los \u00e1rboles ___ bosque son hermosos.",
+            "options": [
+              "en el",
+              "del",
+              "en",
+              "de el"
+            ],
+            "correct_answer": "del"
+          },
+          {
+            "type": "conjugation",
+            "prompt": "Conjugate 'ser' for 'los \u00e1rboles':",
+            "correct_answer": "son"
+          },
+          {
+            "type": "accent_correction",
+            "prompt": "Add the missing accent: arboles",
+            "correct_answer": "\u00e1rboles"
+          },
+          {
+            "type": "synonym",
+            "prompt": "Replace 'hermosos' with a more poetic synonym:",
+            "options": [
+              "bonitos",
+              "majestuosos",
+              "feos",
+              "peque\u00f1os"
+            ],
+            "correct_answer": "majestuosos"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises: \"Los \u00e1rboles del bosque son hermosos\"\n\n---\n\n## **Exercise 1: Comprehension Questions**\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 son hermosos?\n2. \u00bfD\u00f3nde est\u00e1n los \u00e1rboles?\n3. \u00bfC\u00f3mo son los \u00e1rboles del bosque?\n\n**Answer Key:**\n1. Los \u00e1rboles (del bosque) son hermosos.\n2. Los \u00e1rboles est\u00e1n en el bosque.\n3. Son hermosos.\n\n---\n\n## **Exercise 2: Fill-in-the-Blank Sentences**\n**Instructions:** Complete the sentences with the correct words from the word bank.\n\n**Word Bank:** Los, hermosos, del, son, bosque, \u00e1rboles\n\n1. __________ \u00e1rboles __________ bosque __________ hermosos.\n2. __________ __________ son grandes y verdes.\n3. El __________ tiene muchos __________ lindos.\n\n**Answer Key:**\n1. Los / del / son\n2. Los / \u00e1rboles\n3. bosque / \u00e1rboles\n\n---\n\n## **Exercise 3: Vocabulary Matching**\n**Instructions:** Match the Spanish words with their English definitions.\n\n| Spanish | English |\n|---------|---------|\n| 1. \u00e1rboles | a. Beautiful |\n| 2. bosque | b. Trees |\n| 3. hermosos | c. Forest |\n| 4. los | d. Are |\n| 5. son | e. The (plural) |\n\n**Answer Key:** 1-b, 2-c, 3-a, 4-e, 5-d\n\n---\n\n## **Exercise 4: Grammar Practice**\n**Instructions:** Choose the correct form for each blank.\n\n1. __________ (Los/La) \u00e1rboles son hermosos.\n   - a. Los \u2713\n   - b. La\n\n2. Los \u00e1rboles __________ (es/son) hermosos.\n   - a. es\n   - b. son \u2713\n\n3. Los \u00e1rboles del __________ (bosques/bosque) son hermosos.\n   - a. bosques\n   - b. bosque \u2713\n\n4. Los \u00e1rboles son __________ (hermoso/hermosos).\n   - a. hermoso\n   - b. hermosos \u2713\n\n---\n\n## **Exercise 5: Translation Exercises**\n**Instructions:** Translate the following sentences into Spanish.\n\n1. The trees are beautiful.\n   > **Answer:** Los \u00e1rboles son hermosos.\n\n2. The forest trees are beautiful.\n   > **Answer:** Los \u00e1rboles del bosque son hermosos.\n\n3. They are beautiful trees.\n   > **Answer:** Son \u00e1rboles hermosos.\n\n**Challenge Translation (English to Spanish):**\n4. The trees of the beautiful forest are magnificent.\n   > **Answer:** Los \u00e1rboles del bosque hermoso son magn\u00edficos.\n\n---\n\n## **Bonus: Sentence Variation Practice**\n**Instructions:** Rewrite the sentence with the requested changes.\n\n1. Change \"hermosos\" to singular masculine:\n   > Los \u00e1rboles del bosque son hermoso. *(Note: grammatically incorrect\u2014adjectives must agree)*\n   > **Correct:** El \u00e1rbol del bosque es hermoso.\n\n2. Make the entire sentence negative:\n   > Los \u00e1rboles del bosque no son hermosos.\n\n3. Change to interrogative form:\n   > \u00bfSon hermosos los \u00e1rboles del bosque?"
+    }
+  },
+  "2026-10-24T12:02:18.560123": {
+    "id": "2026-10-24T12:02:18.560123",
+    "timestamp": "2026-10-24T12:02:18.560123",
+    "input": "Me gusta practicar tennis.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. **Correcciones gramaticales**\n\n\u2713 La estructura gramatical es correcta en general.\n\n**Observaci\u00f3n importante:** La palabra \"tennis\" est\u00e1 escrita incorrectamente.\n- \u274c **tennis** \n- \u2705 **tenis** (en espa\u00f1ol, se escribe con una sola \"n\" y sin la \"s\" final)\n\n**Versi\u00f3n corregida:**\n> Me gusta practicar tenis.\n\n---\n\n## 2. **Sugerencias de vocabulario**\n\nLa oraci\u00f3n es clara, pero aqu\u00ed hay alternativas m\u00e1s naturales o enriquecidas:\n\n| Opci\u00f3n | Contexto |\n|--------|----------|\n| Me gusta practicar tenis. | \u2713 Correcta (neutral) |\n| Me encanta jugar tenis. | M\u00e1s entusiasta |\n| Disfruto practicando tenis. | M\u00e1s formal |\n| Soy aficionado al tenis. | M\u00e1s espec\u00edfico |\n\n---\n\n## 3. **Mejoras de estilo**\n\nLa frase es funcional pero muy breve. Considera ampliarla:\n\n- **M\u00e1s contexto:** *Me gusta practicar tenis en el parque los fines de semana.*\n- **Con frecuencia:** *Me gusta practicar tenis regularmente.*\n- **Con detalles personales:** *Me encanta practicar tenis porque es un deporte din\u00e1mico.*\n\n---\n\n**Resumen:** Solo necesitas corregir la ortograf\u00eda de \"tenis\" para que sea perfecta. \u00a1Buen trabajo!",
+      "reading_exercise": {
+        "text": "Me gusta practicar tenis.",
+        "words": [
+          {
+            "word": "Me",
+            "definition": "Me (indirect object pronoun)",
+            "tense": "Pronoun - Indirect Object",
+            "unconjugated": "me"
+          },
+          {
+            "word": "gusta",
+            "definition": "likes, is pleasing to",
+            "tense": "Present Indicative, 3rd person singular",
+            "unconjugated": "gustar"
+          },
+          {
+            "word": "practicar",
+            "definition": "to practice, to play",
+            "tense": "Infinitive",
+            "unconjugated": "practicar"
+          },
+          {
+            "word": "tenis",
+            "definition": "tennis (the sport)",
+            "tense": "Noun",
+            "unconjugated": "tenis"
+          }
+        ],
+        "exercises": [
+          {
+            "type": "fill_blank",
+            "prompt": "Complete the sentence: Me _____ practicar tenis.",
+            "options": [
+              "gusta",
+              "gusto",
+              "gustas",
+              "gusten"
+            ],
+            "correct_answer": "gusta",
+            "explanation": "With 'me gusta', we use the 3rd person singular form 'gusta' because the subject is the activity (tenis), not the person."
+          },
+          {
+            "type": "correct_spelling",
+            "prompt": "Correct the spelling: Me gusta practicar tennis.",
+            "correct_answer": "Me gusta practicar tenis.",
+            "explanation": "In Spanish, 'tenis' is written with one 'n' and no final 's', unlike English 'tennis'."
+          },
+          {
+            "type": "vocabulary_match",
+            "prompt": "Match the sentence with the most enthusiastic alternative:",
+            "options": [
+              "Disfruto practicando tenis.",
+              "Me encanta jugar tenis.",
+              "Soy aficionado al tenis.",
+              "Me gusta practicar tenis."
+            ],
+            "correct_answer": "Me encanta jugar tenis.",
+            "explanation": "'Encantar' (to love/adore) expresses more enthusiasm than 'gustar' (to like)."
+          },
+          {
+            "type": "expansion",
+            "prompt": "Expand the sentence with a time expression. Choose the best option:",
+            "options": [
+              "Me gusta practicar tenis en el parque los fines de semana.",
+              "Me gusta practicar tenis porque es din\u00e1mico.",
+              "Me gusta practicar tenis regularmente.",
+              "All of the above are correct"
+            ],
+            "correct_answer": "All of the above are correct",
+            "explanation": "All three options are grammatically correct ways to expand the original sentence with different types of additional information."
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises: \"Me gusta practicar tenis\"\n\n---\n\n## Exercise 1: Comprehension Questions\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfQu\u00e9 le gusta hacer? (What does he/she like to do?)\n2. \u00bfCu\u00e1l es el deporte que menciona? (What is the sport mentioned?)\n3. \u00bfA qui\u00e9n le gusta practicar tenis? (To whom does practicing tennis appeal?)\n\n**Suggested Answers:**\n1. Le gusta practicar tenis.\n2. El tenis.\n3. A m\u00ed / Al hablante (The speaker).\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences\n**Instructions:** Complete the sentences using words from the reading.\n\n1. _______ gusta practicar f\u00fatbol. (Me / Te / Le)\n2. Me gusta practicar _______. (tenis / nataci\u00f3n / m\u00fasica)\n3. _______ gusta jugar al tenis. (Me / Tenis / Practicar)\n\n**Answer Key:**\n1. Me\n2. tenis\n3. Me\n\n---\n\n## Exercise 3: Vocabulary Matching\n**Instructions:** Match Spanish words with their English equivalents.\n\n| Spanish | English |\n|---------|---------|\n| 1. gustar | a) tennis |\n| 2. practicar | b) to like / to be pleasing |\n| 3. tenis | c) to practice / to play |\n| 4. me | d) me (indirect object) |\n\n**Answer Key:** 1-b, 2-c, 3-a, 4-d\n\n---\n\n## Exercise 4: Grammar Practice\n**Instructions:** Rewrite the sentences using the correct form of \"gustar\" with the given pronouns.\n\n1. (Yo) _______ gusta practicar tenis. \u2192 Me gusta practicar tenis.\n2. (\u00c9l) _______ gusta practicar f\u00fatbol. \u2192 Le gusta practicar f\u00fatbol.\n3. (Nosotros) _______ gusta el tenis. \u2192 Nos gusta el tenis.\n4. (Ellos) _______ gusta jugar. \u2192 Les gusta jugar.\n\n**Answer Key:** All answered above (me, le, nos, les)\n\n---\n\n## Exercise 5: Translation Exercises\n**Instructions:** Translate the following sentences from English to Spanish.\n\n1. I like to play tennis.\n2. He likes to practice tennis.\n3. They like tennis.\n4. Do you like to play sports?\n\n**Answer Key:**\n1. Me gusta practicar tenis.\n2. Le gusta practicar tenis.\n3. Les gusta el tenis. / Les gusta tenis.\n4. \u00bfTe gusta practicar deportes? / \u00bfLe gusta practicar deportes?\n\n---"
+    }
+  },
+  "2026-10-24T12:05:32.094757": {
+    "id": "2026-10-24T12:05:32.094757",
+    "timestamp": "2026-10-24T12:05:32.094757",
+    "input": "Hola soy Dora.",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto\n\n## 1. **Correcciones gramaticales**\n\n**Error identificado:**\n- Falta una coma o punto despu\u00e9s de \"Hola\"\n\n**Versi\u00f3n corregida:**\n- \"Hola, soy Dora.\" \u2713\n\n**Explicaci\u00f3n:** Seg\u00fan las normas de puntuaci\u00f3n del espa\u00f1ol, los saludos iniciales deben separarse con coma del resto de la oraci\u00f3n.\n\n---\n\n## 2. **Sugerencias de vocabulario**\n\nEl texto es muy b\u00e1sico. Aqu\u00ed hay opciones para enriquecerlo:\n\n| Original | Alternativas |\n|----------|--------------|\n| \"Hola\" | Buenos d\u00edas / Buenas tardes / Encantada |\n| \"soy\" | Me llamo / Mi nombre es |\n\n**Ejemplo mejorado:**\n- \"Encantada, me llamo Dora.\"\n- \"Buenos d\u00edas, soy Dora.\"\n\n---\n\n## 3. **Mejoras en el estilo**\n\n**Situaci\u00f3n actual:** La frase es demasiado simple y directa.\n\n**Sugerencias contextuales:**\n\n- **Presentaci\u00f3n formal:** \"Buenos d\u00edas, me llamo Dora Garc\u00eda.\"\n- **Presentaci\u00f3n casual:** \"\u00a1Hola! Soy Dora, mucho gusto.\"\n- **M\u00e1s descriptiva:** \"Hola, me llamo Dora y es un placer conocerte.\"\n\n---\n\n**Conclusi\u00f3n:** El texto es correcto pero muy b\u00e1sico. Se recomienda a\u00f1adir puntuaci\u00f3n y considerar el contexto para una presentaci\u00f3n m\u00e1s completa.",
+      "reading_exercise": {
+        "text": "Hola, soy Dora. Es un placer conocerte.",
+        "words": [
+          {
+            "word": "Hola",
+            "definition": "Hello; a greeting used to begin a conversation",
+            "tense": "Interjection",
+            "unconjugated": "Hola"
+          },
+          {
+            "word": "soy",
+            "definition": "I am",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "ser"
+          },
+          {
+            "word": "Dora",
+            "definition": "Dora; a proper name (feminine)",
+            "tense": "Proper noun",
+            "unconjugated": "Dora"
+          },
+          {
+            "word": "Es",
+            "definition": "It is; he/she/it is",
+            "tense": "Present indicative, 3rd person singular",
+            "unconjugated": "ser"
+          },
+          {
+            "word": "un",
+            "definition": "A; an (masculine singular article)",
+            "tense": "Article",
+            "unconjugated": "un"
+          },
+          {
+            "word": "placer",
+            "definition": "Pleasure; a pleasant feeling or experience",
+            "tense": "Noun (masculine)",
+            "unconjugated": "placer"
+          },
+          {
+            "word": "conocerte",
+            "definition": "To meet you; to get to know you",
+            "tense": "Infinitive with 2nd person singular pronoun (te)",
+            "unconjugated": "conocer"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises: \"Hola, soy Dora\"\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfCu\u00e1l es el nombre de la persona que habla?\n   - a) Mar\u00eda\n   - b) Dora\n   - c) Carmen\n\n2. \u00bfQu\u00e9 dice Dora al principio?\n   - a) Adi\u00f3s\n   - b) Hola\n   - c) Buenas noches\n\n3. \u00bfQu\u00e9 es un placer para Dora?\n   - a) Hablar espa\u00f1ol\n   - b) Conocerte\n   - c) Viajar\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Fill in the missing words from the text.\n\n1. _______, soy Dora.\n\n2. Es un _______ conocerte.\n\n3. Hola, _______ Dora.\n\n4. Es un placer _______. \n\n5. _______, soy Dora. Es un placer conocerte.\n\n---\n\n## Exercise 3: Vocabulary Matching (Empareja las Palabras)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English Definition |\n|---------|-------------------|\n| 1. Hola | a) Pleasure |\n| 2. Placer | b) To meet you |\n| 3. Conocerte | c) I am |\n| 4. Soy | d) Hello |\n| 5. Es | e) It is / He/She is |\n\n**Answer Key:** 1-d, 2-a, 3-b, 4-c, 5-e\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Complete the sentences using the correct form of the verb \"ser\" or related vocabulary.\n\n1. Yo _______ (ser) Pedro.\n   - *Answer: soy*\n\n2. _______ un placer conocer a nuevas personas.\n   - *Answer: Es*\n\n3. Ella _______ (ser) Mar\u00eda.\n   - *Answer: es*\n\n4. Es un _______ (pleasure) hablar contigo.\n   - *Answer: placer*\n\n5. \u00bfCu\u00e1l _______ (ser) tu nombre?\n   - *Answer: es*\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following sentences into Spanish or English.\n\n### Spanish to English:\n1. Hola, soy Dora.\n   - *Answer: Hello, I am Dora.*\n\n2. Es un placer conocerte.\n   - *Answer: It is a pleasure to meet you.*\n\n### English to Spanish:\n3. I am pleased to meet you.\n   - *Answer: Es un placer conocerte. / Tengo placer en conocerte.*\n\n4. Hello, my name is Carlos.\n   - *Answer: Hola, soy Carlos. / Me llamo Carlos.*\n\n5. What is your name?\n   - *Answer: \u00bfCu\u00e1l es tu nombre? / \u00bfC\u00f3mo te llamas?*\n\n---\n\n**Bonus Challenge:** Create your own introduction similar to Dora's, using the pattern: \"Hola, soy [your name]. Es un placer conocerte.\""
+    }
+  },
+  "2026-10-24T12:09:22.971844": {
+    "id": "2026-10-24T12:09:22.971844",
+    "timestamp": "2026-10-24T12:09:22.971844",
+    "input": "Hola",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones gramaticales\n\u2713 **No hay errores gramaticales.** La palabra \"Hola\" est\u00e1 correctamente escrita y es gramaticalmente v\u00e1lida como interjecci\u00f3n.\n\n## 2. Sugerencias de vocabulario\nEl texto es muy breve, pero aqu\u00ed hay algunas opciones para expandirlo:\n- \"Hola\" es apropiado para saludos informales\n- Si deseas ser m\u00e1s formal: \"Buenos d\u00edas\", \"Buenas tardes\", \"Buenas noches\"\n- Si deseas agregar m\u00e1s: \"Hola, \u00bfc\u00f3mo est\u00e1s?\" o \"Hola, \u00bfqu\u00e9 tal?\"\n\n## 3. Mejoras de estilo y redacci\u00f3n\n\n**Observaciones:**\n- El texto es **demasiado breve** para constituir un mensaje completo\n- Falta **contexto y prop\u00f3sito** comunicativo\n- Se recomienda:\n  - Agregar preguntas o comentarios adicionales\n  - Incluir el prop\u00f3sito del mensaje\n  - Desarrollar las ideas con m\u00e1s detalle\n\n**Ejemplo mejorado:**\n> \"Hola, \u00bfc\u00f3mo est\u00e1s? Espero que tengas un excelente d\u00eda.\"\n\n---\n\n**Conclusi\u00f3n:** Aunque \"Hola\" es correcto, un mensaje m\u00e1s desarrollado ser\u00eda m\u00e1s efectivo para la comunicaci\u00f3n.",
+      "reading_exercise": {
+        "text": "Hola, \u00bfc\u00f3mo est\u00e1s? Espero que tengas un excelente d\u00eda.",
+        "words": [
+          {
+            "word": "Hola",
+            "definition": "Hello; a greeting used to start a conversation",
+            "tense": "Interjection",
+            "unconjugated": "Hola"
+          },
+          {
+            "word": "c\u00f3mo",
+            "definition": "How; used to ask about someone's state or condition",
+            "tense": "Interrogative adverb",
+            "unconjugated": "c\u00f3mo"
+          },
+          {
+            "word": "est\u00e1s",
+            "definition": "You are (informal); indicates a state or condition",
+            "tense": "Present indicative, 2nd person singular",
+            "unconjugated": "estar"
+          },
+          {
+            "word": "Espero",
+            "definition": "I hope; to wish or desire something",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "esperar"
+          },
+          {
+            "word": "que",
+            "definition": "That; used to introduce a subordinate clause",
+            "tense": "Subordinating conjunction",
+            "unconjugated": "que"
+          },
+          {
+            "word": "tengas",
+            "definition": "You have (informal); to possess",
+            "tense": "Present subjunctive, 2nd person singular",
+            "unconjugated": "tener"
+          },
+          {
+            "word": "un",
+            "definition": "A/An; indefinite article (masculine singular)",
+            "tense": "Article",
+            "unconjugated": "un"
+          },
+          {
+            "word": "excelente",
+            "definition": "Excellent; of outstanding quality",
+            "tense": "Adjective",
+            "unconjugated": "excelente"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day; a 24-hour period",
+            "tense": "Noun (masculine)",
+            "unconjugated": "d\u00eda"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfCu\u00e1l es el saludo inicial del texto?\n   - a) Adi\u00f3s\n   - b) Hola\n   - c) Buenos d\u00edas\n\n2. \u00bfQu\u00e9 pregunta hace despu\u00e9s del saludo?\n   - a) \u00bfC\u00f3mo te llamas?\n   - b) \u00bfC\u00f3mo est\u00e1s?\n   - c) \u00bfD\u00f3nde est\u00e1s?\n\n3. \u00bfQu\u00e9 espera la persona que tengas?\n   - a) Un excelente d\u00eda\n   - b) Un buen amigo\n   - c) Una buena semana\n\n---\n\n## Exercise 2: Fill-in-the-Blank (Completa los Espacios en Blanco)\n\n**Instructions:** Complete the sentences with the correct word from the text.\n\n1. __________ , \u00bfc\u00f3mo est\u00e1s?\n   \n2. Espero que tengas un __________ d\u00eda.\n\n3. \u00bf__________ est\u00e1s? (How are you?)\n\n4. Espero __________ tengas un excelente d\u00eda.\n\n5. Hola, \u00bfc\u00f3mo __________? (You are)\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejar Vocabulario)\n\n**Instructions:** Match each Spanish word with its English translation.\n\n| Spanish | English |\n|---------|---------|\n| 1. Hola | a) Day |\n| 2. C\u00f3mo | b) Excellent |\n| 3. Est\u00e1s | c) Hello |\n| 4. Espero | d) How |\n| 5. Excelente | e) You are |\n| 6. D\u00eda | f) I hope |\n| 7. Que | g) That |\n| 8. Tengas | h) You have |\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Answer the following grammar questions.\n\n1. **Verb Conjugation:** Conjugate \"estar\" in the present indicative for the 2nd person singular (t\u00fa).\n   - Answer: __________\n\n2. **Subjunctive Mood:** Why is \"tengas\" used instead of \"tienes\"? Explain briefly in English or Spanish.\n   - Answer: __________\n\n3. **Article Agreement:** Why is \"un\" used before \"excelente d\u00eda\" instead of \"una\"?\n   - Answer: __________\n\n4. **Identify the Verb Tense:** What tense is \"Espero\"? \n   - a) Preterite\n   - b) Present indicative\n   - c) Past subjunctive\n\n5. **Conjunction Function:** What is the function of \"que\" in \"Espero que tengas un excelente d\u00eda\"?\n   - Answer: __________\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following sentences from English to Spanish.\n\n1. Hello, how are you?\n   - Answer: __________\n\n2. I hope you have an excellent day.\n   - Answer: __________\n\n3. How are you? (informal)\n   - Answer: __________\n\n4. A good day\n   - Answer: __________\n\n5. That you have (subjunctive form)\n   - Answer: __________\n\n---\n\n## Answer Key (Optional - for Teachers/Self-Study)\n\n**Exercise 1:** 1-b, 2-b, 3-a\n\n**Exercise 2:** 1-Hola, 2-excelente, 3-C\u00f3mo, 4-que, 5-est\u00e1s\n\n**Exercise 3:** 1-c, 2-d, 3-e, 4-f, 5-b, 6-a, 7-g, 8-h\n\n**Exercise 4:** 1-est\u00e1s, 2-Subjunctive is used after \"esperar que\" to express desire/hope, 3-\"d\u00eda\" is masculine, 4-b, 5-Introduces a subordinate clause expressing hope/desire\n\n**Exercise 5:** 1-Hola, \u00bfc\u00f3mo est\u00e1s?, 2-Espero que tengas un excelente d\u00eda., 3-\u00bfC\u00f3mo est\u00e1s?, 4-Un buen d\u00eda, 5-que tengas"
+    }
+  },
+  "2026-10-24T12:15:54.106140": {
+    "id": "2026-10-24T12:15:54.106140",
+    "timestamp": "2026-10-24T12:15:54.106140",
+    "input": "Hola",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones gramaticales\n\u2713 **No hay errores gramaticales.** La palabra \"Hola\" es una interjecci\u00f3n correctamente utilizada.\n\n## 2. Sugerencias de vocabulario\nEl texto es muy breve, por lo que no hay observaciones de vocabulario. Sin embargo, si deseas expandir tu mensaje, podr\u00edas considerar:\n- \"Hola, \u00bfc\u00f3mo est\u00e1s?\" (m\u00e1s amable)\n- \"Saludos\" (m\u00e1s formal)\n- \"\u00a1Hola!\" (con \u00e9nfasis)\n\n## 3. Mejoras en la escritura\n\n| Aspecto | Observaci\u00f3n |\n|--------|------------|\n| **Extensi\u00f3n** | El mensaje es demasiado breve. Se recomienda agregar contexto o prop\u00f3sito. |\n| **Tono** | Dependiendo del contexto, podr\u00edas hacer el saludo m\u00e1s espec\u00edfico. |\n| **Claridad** | Aunque es claro, falta informaci\u00f3n sobre qu\u00e9 sigue despu\u00e9s. |\n\n### Ejemplos mejorados:\n- \"Hola, me gustar\u00eda ayuda con mi escritura.\"\n- \"Hola, \u00bftienes un momento para conversar?\"\n\n---\n\n**Nota:** Si deseas un an\u00e1lisis m\u00e1s completo, te invito a compartir un texto m\u00e1s extenso. \ud83d\ude0a",
+      "reading_exercise": {
+        "text": "Hola, \u00bfc\u00f3mo est\u00e1s? Me gustar\u00eda ayuda con mi escritura en espa\u00f1ol.",
+        "words": [
+          {
+            "word": "Hola",
+            "definition": "Hello; a greeting used to address someone",
+            "tense": "Interjection",
+            "unconjugated": "Hola"
+          },
+          {
+            "word": "c\u00f3mo",
+            "definition": "How; in what way or manner",
+            "tense": "Interrogative adverb",
+            "unconjugated": "c\u00f3mo"
+          },
+          {
+            "word": "est\u00e1s",
+            "definition": "Are (you); to be in a particular state or condition",
+            "tense": "Present indicative, 2nd person singular",
+            "unconjugated": "estar"
+          },
+          {
+            "word": "Me",
+            "definition": "Me; indirect/direct object pronoun (to/for me)",
+            "tense": "Pronoun",
+            "unconjugated": "me"
+          },
+          {
+            "word": "gustar\u00eda",
+            "definition": "Would like; conditional form expressing desire",
+            "tense": "Conditional, 3rd person singular",
+            "unconjugated": "gustar"
+          },
+          {
+            "word": "ayuda",
+            "definition": "Help; assistance or support",
+            "tense": "Noun, feminine singular",
+            "unconjugated": "ayuda"
+          },
+          {
+            "word": "con",
+            "definition": "With; used to indicate accompaniment or association",
+            "tense": "Preposition",
+            "unconjugated": "con"
+          },
+          {
+            "word": "mi",
+            "definition": "My; possessive adjective, singular",
+            "tense": "Possessive adjective",
+            "unconjugated": "mi"
+          },
+          {
+            "word": "escritura",
+            "definition": "Writing; the act or skill of writing",
+            "tense": "Noun, feminine singular",
+            "unconjugated": "escritura"
+          },
+          {
+            "word": "en",
+            "definition": "In; expressing location, time, or language",
+            "tense": "Preposition",
+            "unconjugated": "en"
+          },
+          {
+            "word": "espa\u00f1ol",
+            "definition": "Spanish; the language or relating to Spain",
+            "tense": "Noun/Adjective, masculine singular",
+            "unconjugated": "espa\u00f1ol"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfCu\u00e1l es el saludo inicial en el texto?\n2. \u00bfQu\u00e9 persona necesita ayuda?\n3. \u00bfCon qu\u00e9 necesita ayuda?\n4. \u00bfEn qu\u00e9 idioma quiere ayuda?\n\n**Possible Answers:**\n1. Hola\n2. La persona que habla\n3. Con la escritura\n4. En espa\u00f1ol\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa los Espacios en Blanco)\n\n**Instructions:** Fill in the missing words from the word list.\n\n1. _______ , \u00bfc\u00f3mo est\u00e1s?\n2. Me gustar\u00eda _______ con mi escritura _______ espa\u00f1ol.\n3. _______ escribir bien es importante para _______.\n4. \u00bf_______ est\u00e1s hoy?\n\n**Answer Key:**\n1. Hola\n2. ayuda / en\n3. La escritura / m\u00ed\n4. C\u00f3mo\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejamiento de Vocabulario)\n\n**Instructions:** Match Spanish words with their English definitions.\n\n| Spanish | English |\n|---------|---------|\n| 1. est\u00e1s | a) Help |\n| 2. escritura | b) How |\n| 3. c\u00f3mo | c) Writing |\n| 4. ayuda | d) Are (you) |\n| 5. espa\u00f1ol | e) Spanish |\n\n**Answer Key:** 1-d, 2-c, 3-b, 4-a, 5-e\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Choose the correct form and explain why.\n\n1. \u00bfC\u00f3mo **est\u00e1s / est\u00e1 / est\u00e1n**? (informal, singular)\n   - Correct: **est\u00e1s** (t\u00fa form, present indicative)\n\n2. Me **gustar\u00eda / gusta / gustaba** ayuda. (expressing desire)\n   - Correct: **gustar\u00eda** (conditional tense)\n\n3. Ayuda **con / en / de** mi escritura.\n   - Correct: **con** (preposition indicating accompaniment)\n\n4. **Mi / Me / M\u00ed** escritura en espa\u00f1ol.\n   - Correct: **Mi** (possessive adjective)\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following phrases from English to Spanish.\n\n1. Hello, how are you?\n   - **Answer:** Hola, \u00bfc\u00f3mo est\u00e1s?\n\n2. I would like help with my writing.\n   - **Answer:** Me gustar\u00eda ayuda con mi escritura.\n\n3. My writing in Spanish.\n   - **Answer:** Mi escritura en espa\u00f1ol.\n\n4. Help with writing.\n   - **Answer:** Ayuda con la escritura.\n\n5. How are you today?\n   - **Answer:** \u00bfC\u00f3mo est\u00e1s hoy?\n\n---\n\n## Bonus Challenge: Create Your Own Dialogue\n\n**Instructions:** Write a short response to the greeting in the text using at least 5 words from the vocabulary list.\n\n**Example:**\n\"Hola, estoy bien. Me gustar\u00eda ayuda con mi escritura en espa\u00f1ol tambi\u00e9n.\""
+    }
+  },
+  "2026-10-24T12:18:17.492148": {
+    "id": "2026-10-24T12:18:17.492148",
+    "timestamp": "2026-10-24T12:18:17.492148",
+    "input": "Hola",
+    "stages": {
+      "analysis": "# An\u00e1lisis del texto en espa\u00f1ol\n\n## 1. Correcciones gramaticales\n\u2713 **Correcto.** La palabra \"Hola\" est\u00e1 bien escrita y es gramaticalmente correcta como saludo.\n\n## 2. Sugerencias de vocabulario\nEl texto es muy breve, as\u00ed que hay poco que sugerir. Sin embargo:\n- \"Hola\" es apropiado y es la forma est\u00e1ndar de saludo\n- Podr\u00edas considerar a\u00f1adir m\u00e1s contenido para proporcionar contexto\n\n## 3. Mejoras en la escritura\n\n**Observaciones principales:**\n- El mensaje es **demasiado corto** para constituir un texto completo\n- Le falta **contexto y prop\u00f3sito**\n- No hay estructura de comunicaci\u00f3n clara\n\n**Sugerencias para mejorar:**\n\n| Versi\u00f3n actual | Versiones mejoradas |\n|---|---|\n| Hola | Hola, \u00bfc\u00f3mo est\u00e1s? |\n| | Hola, \u00bfen qu\u00e9 puedo ayudarte? |\n| | Hola, espero que est\u00e9s bien. |\n\n---\n\n## \ud83d\udcdd Conclusi\u00f3n\n\nPara un an\u00e1lisis m\u00e1s completo, te recomiendo compartir un texto m\u00e1s extenso. De esta manera podr\u00e9 evaluarlo en t\u00e9rminos de:\n- Coherencia y cohesi\u00f3n\n- Tono y registro\n- Estructura y organizaci\u00f3n\n- Uso de conectores\n\n\u00bfTienes otro texto que desees que analice? \ud83d\ude0a",
+      "reading_exercise": {
+        "text": "Hola, \u00bfc\u00f3mo est\u00e1s? Espero que est\u00e9s bien y que tengas un excelente d\u00eda.",
+        "words": [
+          {
+            "word": "Hola",
+            "definition": "Hello; a greeting used to say hi to someone",
+            "tense": "Interjection/Greeting",
+            "unconjugated": "Hola"
+          },
+          {
+            "word": "\u00bfc\u00f3mo",
+            "definition": "How; in what way or manner",
+            "tense": "Interrogative adverb",
+            "unconjugated": "c\u00f3mo"
+          },
+          {
+            "word": "est\u00e1s",
+            "definition": "You are (informal); to be in a state or condition",
+            "tense": "Present indicative, 2nd person singular",
+            "unconjugated": "estar"
+          },
+          {
+            "word": "Espero",
+            "definition": "I hope; to expect or wish for something",
+            "tense": "Present indicative, 1st person singular",
+            "unconjugated": "esperar"
+          },
+          {
+            "word": "que",
+            "definition": "That; a subordinating conjunction",
+            "tense": "Conjunction",
+            "unconjugated": "que"
+          },
+          {
+            "word": "est\u00e9s",
+            "definition": "You are (subjunctive); to be in a state or condition",
+            "tense": "Present subjunctive, 2nd person singular",
+            "unconjugated": "estar"
+          },
+          {
+            "word": "bien",
+            "definition": "Well; in good health or condition",
+            "tense": "Adverb",
+            "unconjugated": "bien"
+          },
+          {
+            "word": "y",
+            "definition": "And; a coordinating conjunction",
+            "tense": "Conjunction",
+            "unconjugated": "y"
+          },
+          {
+            "word": "tengas",
+            "definition": "You have (subjunctive); to possess or hold",
+            "tense": "Present subjunctive, 2nd person singular",
+            "unconjugated": "tener"
+          },
+          {
+            "word": "un",
+            "definition": "A/an; indefinite article (masculine singular)",
+            "tense": "Article",
+            "unconjugated": "un"
+          },
+          {
+            "word": "excelente",
+            "definition": "Excellent; of outstanding quality",
+            "tense": "Adjective",
+            "unconjugated": "excelente"
+          },
+          {
+            "word": "d\u00eda",
+            "definition": "Day; a period of 24 hours",
+            "tense": "Noun (masculine)",
+            "unconjugated": "d\u00eda"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises\n\n## Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfCu\u00e1l es el primer saludo en el texto?\n2. \u00bfQu\u00e9 espera el autor?\n3. \u00bfQu\u00e9 tipo de d\u00eda desea el autor para ti?\n4. \u00bfA qui\u00e9n se dirige el mensaje?\n\n**Answer Key:**\n1. \"Hola\"\n2. Espera que est\u00e9s bien y que tengas un excelente d\u00eda\n3. Un excelente d\u00eda\n4. A ti (informal, singular person)\n\n---\n\n## Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)\n\n**Instructions:** Fill in the blanks with the correct word from the word bank.\n\n**Word Bank:** Hola | est\u00e1s | bien | que | d\u00eda | tengas | Espero\n\n1. __________, \u00bfc\u00f3mo est\u00e1s?\n2. Espero __________ est\u00e9s bien.\n3. \u00bfC\u00f3mo __________?\n4. Espero __________ un excelente __________.\n5. Estoy __________ y feliz.\n\n**Answer Key:**\n1. Hola\n2. que\n3. est\u00e1s\n4. tengas / d\u00eda\n5. bien\n\n---\n\n## Exercise 3: Vocabulary Matching (Emparejar el Vocabulario)\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English Definition |\n|---------|-------------------|\n| 1. Hola | A. Well |\n| 2. Espero | B. And |\n| 3. bien | C. Hello |\n| 4. d\u00eda | D. Excellent |\n| 5. excelente | E. I hope |\n| 6. y | F. Day |\n\n**Answer Key:** 1-C, 2-E, 3-A, 4-F, 5-D, 6-B\n\n---\n\n## Exercise 4: Grammar Practice (Pr\u00e1ctica Gramatical)\n\n**Instructions:** Identify the tense and conjugation for each underlined verb.\n\n1. **Espero** que est\u00e9s bien.\n   - Tense: ________________\n   - Person: ________________\n\n2. Espero que **est\u00e9s** bien.\n   - Tense: ________________\n   - Person: ________________\n\n3. Espero que **tengas** un excelente d\u00eda.\n   - Tense: ________________\n   - Person: ________________\n\n4. \u00bfC\u00f3mo **est\u00e1s**?\n   - Tense: ________________\n   - Person: ________________\n\n**Answer Key:**\n1. Present Indicative / 1st person singular\n2. Present Subjunctive / 2nd person singular\n3. Present Subjunctive / 2nd person singular\n4. Present Indicative / 2nd person singular\n\n---\n\n## Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)\n\n**Instructions:** Translate the following sentences from Spanish to English.\n\n1. Hola, \u00bfc\u00f3mo est\u00e1s?\n   - ________________________________________\n\n2. Espero que est\u00e9s bien.\n   - ________________________________________\n\n3. Tengas un excelente d\u00eda.\n   - ________________________________________\n\n4. \u00bfC\u00f3mo est\u00e1s y qu\u00e9 tal tu d\u00eda?\n   - ________________________________________\n\n**Answer Key:**\n1. Hello, how are you?\n2. I hope that you are well.\n3. Have an excellent day. (May you have an excellent day.)\n4. How are you and how is your day?\n\n---\n\n## Bonus Challenge: Subjunctive vs. Indicative\n\n**Instructions:** Explain why the subjunctive mood is used with \"est\u00e9s\" and \"tengas\" after \"Espero que...\"\n\n**Explanation:** The subjunctive is used after \"espero que\" because expressions of hope, desire, and emotion trigger the subjunctive mood in Spanish. The speaker is expressing a wish or expectation rather than stating a fact."
+    }
+  },
+  "2026-10-24T12:20:13.520410": {
+    "id": "2026-10-24T12:20:13.520410",
+    "timestamp": "2026-10-24T12:20:13.520410",
+    "input": "Salud",
+    "stages": {
+      "analysis": "# An\u00e1lisis de \"Salud\"\n\n## 1. Correcciones Gramaticales\n\u2713 **No hay errores gramaticales.** La palabra est\u00e1 correctamente escrita.\n\n---\n\n## 2. Sugerencias de Vocabulario\nEl texto es demasiado breve para an\u00e1lisis detallado. Sin embargo, \"salud\" es la opci\u00f3n m\u00e1s apropiada si se usa como:\n- **Sustantivo**: \"la salud\" (health)\n- **Interjecci\u00f3n**: \"\u00a1Salud!\" (Cheers! / Bless you!)\n\n---\n\n## 3. Mejoras de Estilo\n\n**El problema principal es la brevedad.** Una sola palabra no permite evaluar:\n- Tono y registro\n- Coherencia narrativa\n- Estructura de ideas\n\n### Sugerencias:\n- **Si es un t\u00edtulo**: considere contextualizarlo con subt\u00edtulo o introducci\u00f3n\n- **Si es un saludo**: est\u00e1 bien, pero agregue m\u00e1s contenido\n- **Si es un tema de ensayo**: desarrolle argumentos con p\u00e1rrafos claros\n\n---\n\n## Conclusi\u00f3n\nPara proporcionar retroalimentaci\u00f3n constructiva m\u00e1s completa, **por favor comparta un texto m\u00e1s extenso**. Estar\u00e9 encantado de analizar gram\u00e1tica, vocabulario y estilo con mayor profundidad.",
+      "reading_exercise": {
+        "text": "Salud es lo m\u00e1s importante en la vida. Mantener una buena salud requiere ejercicio regular, una alimentaci\u00f3n equilibrada y descanso adecuado. La salud mental es tan vital como la f\u00edsica. Debemos cuidar nuestro cuerpo y nuestra mente para vivir una vida plena y feliz.",
+        "words": [
+          {
+            "word": "Salud",
+            "definition": "Health; physical and mental well-being",
+            "tense": "Noun (feminine singular)",
+            "unconjugated": "salud"
+          },
+          {
+            "word": "es",
+            "definition": "Is",
+            "tense": "Present indicative, 3rd person singular",
+            "unconjugated": "ser"
+          },
+          {
+            "word": "lo m\u00e1s importante",
+            "definition": "The most important thing",
+            "tense": "Adjective (superlative) + Article",
+            "unconjugated": "importante"
+          },
+          {
+            "word": "Mantener",
+            "definition": "To maintain, to keep",
+            "tense": "Infinitive",
+            "unconjugated": "mantener"
+          },
+          {
+            "word": "requiere",
+            "definition": "Requires",
+            "tense": "Present indicative, 3rd person singular",
+            "unconjugated": "requerir"
+          },
+          {
+            "word": "ejercicio",
+            "definition": "Exercise",
+            "tense": "Noun (masculine singular)",
+            "unconjugated": "ejercicio"
+          },
+          {
+            "word": "regular",
+            "definition": "Regular, steady",
+            "tense": "Adjective",
+            "unconjugated": "regular"
+          },
+          {
+            "word": "alimentaci\u00f3n",
+            "definition": "Diet, nutrition, feeding",
+            "tense": "Noun (feminine singular)",
+            "unconjugated": "alimentaci\u00f3n"
+          },
+          {
+            "word": "equilibrada",
+            "definition": "Balanced",
+            "tense": "Adjective (feminine singular)",
+            "unconjugated": "equilibrado"
+          },
+          {
+            "word": "descanso",
+            "definition": "Rest, sleep",
+            "tense": "Noun (masculine singular)",
+            "unconjugated": "descanso"
+          },
+          {
+            "word": "adecuado",
+            "definition": "Adequate, appropriate",
+            "tense": "Adjective (masculine singular)",
+            "unconjugated": "adecuado"
+          },
+          {
+            "word": "mental",
+            "definition": "Mental",
+            "tense": "Adjective",
+            "unconjugated": "mental"
+          },
+          {
+            "word": "vital",
+            "definition": "Vital, essential",
+            "tense": "Adjective",
+            "unconjugated": "vital"
+          },
+          {
+            "word": "f\u00edsica",
+            "definition": "Physical",
+            "tense": "Adjective (feminine singular)",
+            "unconjugated": "f\u00edsico"
+          },
+          {
+            "word": "Debemos",
+            "definition": "We must, we should",
+            "tense": "Present indicative, 1st person plural",
+            "unconjugated": "deber"
+          },
+          {
+            "word": "cuidar",
+            "definition": "To care for, to look after",
+            "tense": "Infinitive",
+            "unconjugated": "cuidar"
+          },
+          {
+            "word": "cuerpo",
+            "definition": "Body",
+            "tense": "Noun (masculine singular)",
+            "unconjugated": "cuerpo"
+          },
+          {
+            "word": "mente",
+            "definition": "Mind",
+            "tense": "Noun (feminine singular)",
+            "unconjugated": "mente"
+          },
+          {
+            "word": "vivir",
+            "definition": "To live",
+            "tense": "Infinitive",
+            "unconjugated": "vivir"
+          },
+          {
+            "word": "plena",
+            "definition": "Full, complete",
+            "tense": "Adjective (feminine singular)",
+            "unconjugated": "pleno"
+          },
+          {
+            "word": "feliz",
+            "definition": "Happy",
+            "tense": "Adjective",
+            "unconjugated": "feliz"
+          }
+        ]
+      },
+      "exercises": "# Spanish Learning Exercises: Salud y Bienestar\n\n---\n\n## **Exercise 1: Comprehension Questions (Preguntas de Comprensi\u00f3n)**\n\n**Instructions:** Answer the following questions in Spanish based on the reading.\n\n1. \u00bfCu\u00e1l es lo m\u00e1s importante en la vida?\n2. \u00bfQu\u00e9 tres cosas requiere mantener una buena salud?\n3. \u00bfEs la salud mental tan importante como la salud f\u00edsica?\n4. \u00bfQu\u00e9 debemos cuidar para vivir una vida plena y feliz?\n5. \u00bfQu\u00e9 tipo de alimentaci\u00f3n necesitamos?\n\n**Possible Answers:**\n1. La salud es lo m\u00e1s importante en la vida.\n2. Requiere ejercicio regular, una alimentaci\u00f3n equilibrada y descanso adecuado.\n3. S\u00ed, la salud mental es tan vital como la f\u00edsica.\n4. Debemos cuidar nuestro cuerpo y nuestra mente.\n5. Necesitamos una alimentaci\u00f3n equilibrada.\n\n---\n\n## **Exercise 2: Fill-in-the-Blank Sentences (Completa las Oraciones)**\n\n**Instructions:** Fill in the blanks with the appropriate words from the word bank.\n\n**Word Bank:** salud, requiere, ejercicio, equilibrada, descanso, cuerpo, mente, vital, cuidar, vivir\n\n1. __________ es lo m\u00e1s importante en la vida.\n2. Mantener una buena salud __________ ejercicio regular.\n3. Necesitamos una alimentaci\u00f3n __________ y __________ adecuado.\n4. La salud mental es tan __________ como la f\u00edsica.\n5. Debemos __________ nuestro __________ y nuestra __________ para __________ una vida plena y feliz.\n\n**Answer Key:**\n1. Salud\n2. requiere\n3. equilibrada, descanso\n4. vital\n5. cuidar, cuerpo, mente, vivir\n\n---\n\n## **Exercise 3: Vocabulary Matching (Empareja las Palabras)**\n\n**Instructions:** Match each Spanish word with its English definition.\n\n| Spanish | English |\n|---------|---------|\n| 1. Salud | A. To maintain |\n| 2. Mantener | B. Adequate, appropriate |\n| 3. Ejercicio | C. Health |\n| 4. Alimentaci\u00f3n | D. Rest, sleep |\n| 5. Descanso | E. Exercise |\n| 6. Adecuado | F. Diet, nutrition |\n| 7. Mental | G. Body |\n| 8. Cuerpo | H. Mental |\n| 9. Vital | I. Essential |\n| 10. Feliz | J. Happy |\n\n**Answer Key:** 1-C, 2-A, 3-E, 4-F, 5-D, 6-B, 7-H, 8-G, 9-I, 10-J\n\n---\n\n## **Exercise 4: Grammar Practice (Pr\u00e1ctica de Gram\u00e1tica)**\n\n**Instructions:** Choose the correct form of the verb or adjective.\n\n1. La salud **es / son** lo m\u00e1s importante en la vida.\n   - a) es\n   - b) son\n\n2. Mantener una buena salud **requiere / requieren** ejercicio regular.\n   - a) requiere\n   - b) requieren\n\n3. Nosotros **debemos / debe** cuidar nuestro cuerpo.\n   - a) debemos\n   - b) debe\n\n4. Una alimentaci\u00f3n **equilibrada / equilibrado** es necesaria.\n   - a) equilibrada\n   - b) equilibrado\n\n5. La salud mental es tan **vital / vitales** como la f\u00edsica.\n   - a) vital\n   - b) vitales\n\n**Answer Key:** 1-a, 2-a, 3-a, 4-a, 5-a\n\n---\n\n## **Exercise 5: Translation Exercises (Ejercicios de Traducci\u00f3n)**\n\n### **Part A: Spanish to English**\n\n**Instructions:** Translate the following sentences to English.\n\n1. Salud es lo m\u00e1s importante en la vida.\n2. Mantener una buena salud requiere ejercicio regular.\n3. La salud mental es tan vital como la f\u00edsica.\n4. Debemos cuidar nuestro cuerpo y nuestra mente.\n5. Queremos vivir una vida plena y feliz.\n\n**Answer Key:**\n1. Health is the most important thing in life.\n2. Maintaining good health requires regular exercise.\n3. Mental health is as vital as physical health.\n4. We must care for our body and our mind.\n5. We want to live a full and happy life.\n\n---\n\n### **Part B: English to Spanish**\n\n**Instructions:** Translate the following sentences to Spanish.\n\n1. We need adequate rest.\n2. A balanced diet is essential.\n3. Exercise is regular and necessary.\n4. Good health requires dedication.\n5. The mind and body are equally important.\n\n**Answer Key:**\n1. Necesitamos descanso adecuado.\n2. Una alimentaci\u00f3n equilibrada es vital/esencial.\n3. El ejercicio es regular y necesario.\n4. La buena salud requiere dedicaci\u00f3n.\n5. La mente y el cuerpo son igualmente importantes.\n\n---\n\n## **Bonus Challenge: Sentence Creation (Creaci\u00f3n de Oraciones)**\n\n**Instructions:** Create 3 original sentences using at least 3 vocabulary words from the reading about health and wellness.\n\n*Example:* \"Para mantener la salud, debemos hacer ejercicio regular y cuidar nuestra alimentaci\u00f3n.\""
+    }
+  }
+}
